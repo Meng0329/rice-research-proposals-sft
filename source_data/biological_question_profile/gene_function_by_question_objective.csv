@@ -1,0 +1,81 @@
+﻿functional_category,question_objective,cooccurring_records,function_category_records,within_function_category_percent
+Disease resistance,Yield and plant architecture,25,97,25.77
+Disease resistance,Grain quality and nutrition,6,97,6.19
+Disease resistance,Abiotic stress adaptation,15,97,15.46
+Disease resistance,Biotic stress resistance,43,97,44.33
+Disease resistance,Flowering and development,5,97,5.15
+Disease resistance,Nutrient use and fertilizer response,0,97,0.0
+Disease resistance,Hybrid breeding and fertility,4,97,4.12
+Disease resistance,Germplasm and diversity,11,97,11.34
+Disease resistance,Physiology and plant processes,0,97,0.0
+Disease resistance,Production environment and management,0,97,0.0
+Abiotic stress response,Yield and plant architecture,38,120,31.67
+Abiotic stress response,Grain quality and nutrition,10,120,8.33
+Abiotic stress response,Abiotic stress adaptation,35,120,29.17
+Abiotic stress response,Biotic stress resistance,36,120,30.0
+Abiotic stress response,Flowering and development,15,120,12.5
+Abiotic stress response,Nutrient use and fertilizer response,0,120,0.0
+Abiotic stress response,Hybrid breeding and fertility,2,120,1.67
+Abiotic stress response,Germplasm and diversity,13,120,10.83
+Abiotic stress response,Physiology and plant processes,1,120,0.83
+Abiotic stress response,Production environment and management,1,120,0.83
+Grain and nutritional traits,Yield and plant architecture,69,171,40.35
+Grain and nutritional traits,Grain quality and nutrition,26,171,15.2
+Grain and nutritional traits,Abiotic stress adaptation,26,171,15.2
+Grain and nutritional traits,Biotic stress resistance,28,171,16.37
+Grain and nutritional traits,Flowering and development,15,171,8.77
+Grain and nutritional traits,Nutrient use and fertilizer response,0,171,0.0
+Grain and nutritional traits,Hybrid breeding and fertility,8,171,4.68
+Grain and nutritional traits,Germplasm and diversity,20,171,11.7
+Grain and nutritional traits,Physiology and plant processes,1,171,0.58
+Grain and nutritional traits,Production environment and management,1,171,0.58
+Yield and plant architecture,Yield and plant architecture,63,136,46.32
+Yield and plant architecture,Grain quality and nutrition,10,136,7.35
+Yield and plant architecture,Abiotic stress adaptation,16,136,11.76
+Yield and plant architecture,Biotic stress resistance,27,136,19.85
+Yield and plant architecture,Flowering and development,12,136,8.82
+Yield and plant architecture,Nutrient use and fertilizer response,0,136,0.0
+Yield and plant architecture,Hybrid breeding and fertility,5,136,3.68
+Yield and plant architecture,Germplasm and diversity,16,136,11.76
+Yield and plant architecture,Physiology and plant processes,2,136,1.47
+Yield and plant architecture,Production environment and management,1,136,0.74
+Flowering and development,Yield and plant architecture,68,194,35.05
+Flowering and development,Grain quality and nutrition,22,194,11.34
+Flowering and development,Abiotic stress adaptation,30,194,15.46
+Flowering and development,Biotic stress resistance,38,194,19.59
+Flowering and development,Flowering and development,21,194,10.82
+Flowering and development,Nutrient use and fertilizer response,0,194,0.0
+Flowering and development,Hybrid breeding and fertility,9,194,4.64
+Flowering and development,Germplasm and diversity,24,194,12.37
+Flowering and development,Physiology and plant processes,4,194,2.06
+Flowering and development,Production environment and management,1,194,0.52
+Nutrient use,Yield and plant architecture,19,32,59.38
+Nutrient use,Grain quality and nutrition,5,32,15.62
+Nutrient use,Abiotic stress adaptation,10,32,31.25
+Nutrient use,Biotic stress resistance,3,32,9.38
+Nutrient use,Flowering and development,1,32,3.12
+Nutrient use,Nutrient use and fertilizer response,0,32,0.0
+Nutrient use,Hybrid breeding and fertility,1,32,3.12
+Nutrient use,Germplasm and diversity,4,32,12.5
+Nutrient use,Physiology and plant processes,0,32,0.0
+Nutrient use,Production environment and management,0,32,0.0
+Fertility and hybrid performance,Yield and plant architecture,19,64,29.69
+Fertility and hybrid performance,Grain quality and nutrition,19,64,29.69
+Fertility and hybrid performance,Abiotic stress adaptation,8,64,12.5
+Fertility and hybrid performance,Biotic stress resistance,20,64,31.25
+Fertility and hybrid performance,Flowering and development,2,64,3.12
+Fertility and hybrid performance,Nutrient use and fertilizer response,0,64,0.0
+Fertility and hybrid performance,Hybrid breeding and fertility,4,64,6.25
+Fertility and hybrid performance,Germplasm and diversity,6,64,9.38
+Fertility and hybrid performance,Physiology and plant processes,1,64,1.56
+Fertility and hybrid performance,Production environment and management,0,64,0.0
+Physiology and signalling,Yield and plant architecture,53,129,41.09
+Physiology and signalling,Grain quality and nutrition,14,129,10.85
+Physiology and signalling,Abiotic stress adaptation,19,129,14.73
+Physiology and signalling,Biotic stress resistance,28,129,21.71
+Physiology and signalling,Flowering and development,12,129,9.3
+Physiology and signalling,Nutrient use and fertilizer response,0,129,0.0
+Physiology and signalling,Hybrid breeding and fertility,4,129,3.1
+Physiology and signalling,Germplasm and diversity,18,129,13.95
+Physiology and signalling,Physiology and plant processes,4,129,3.1
+Physiology and signalling,Production environment and management,1,129,0.78

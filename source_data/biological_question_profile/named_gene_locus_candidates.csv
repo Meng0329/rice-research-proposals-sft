@@ -1,0 +1,355 @@
+﻿symbol_candidate,question_mentions,exact_symbol_in_target,target_retention_percent,objective_contexts
+Xa21,19,18,94.73684210526316,Abiotic stress adaptation; Biotic stress resistance; Germplasm and diversity; Grain quality and nutrition; Yield and plant architecture
+GS3,18,18,100.0,Germplasm and diversity; Grain quality and nutrition; Hybrid breeding and fertility; Yield and plant architecture
+Sub1,17,17,100.0,Abiotic stress adaptation; Biotic stress resistance; Flowering and development; Germplasm and diversity; Nutrient use and fertilizer response; Physiology and plant processes; Production environment and management; Yield and plant architecture
+Pi-ta,16,16,100.0,Abiotic stress adaptation; Biotic stress resistance; Germplasm and diversity; Grain quality and nutrition; Yield and plant architecture
+Xa5,16,15,93.75,Abiotic stress adaptation; Biotic stress resistance; Germplasm and diversity; Grain quality and nutrition; Yield and plant architecture
+Xa13,16,16,100.0,Abiotic stress adaptation; Biotic stress resistance; Germplasm and diversity; Grain quality and nutrition; Yield and plant architecture
+Wx,15,13,86.66666666666667,Germplasm and diversity; Grain quality and nutrition; Hybrid breeding and fertility; Yield and plant architecture
+Saltol,14,14,100.0,Abiotic stress adaptation; Germplasm and diversity; Yield and plant architecture
+Pi-b,13,12,92.3076923076923,Abiotic stress adaptation; Biotic stress resistance; Germplasm and diversity; Grain quality and nutrition; Yield and plant architecture
+Xa4,11,11,100.0,Abiotic stress adaptation; Biotic stress resistance; Germplasm and diversity; Grain quality and nutrition; Yield and plant architecture
+BADH2,9,9,100.0,Abiotic stress adaptation; Biotic stress resistance; Germplasm and diversity; Grain quality and nutrition; Yield and plant architecture
+AG1,8,8,100.0,Abiotic stress adaptation; Biotic stress resistance; Flowering and development; Germplasm and diversity; Yield and plant architecture
+sd1,8,8,100.0,Biotic stress resistance; Flowering and development; Germplasm and diversity; Physiology and plant processes; Yield and plant architecture
+GW8,7,7,100.0,Germplasm and diversity; Grain quality and nutrition; Hybrid breeding and fertility; Yield and plant architecture
+Hd1,7,7,100.0,Flowering and development; Yield and plant architecture
+Pi9,7,7,100.0,Abiotic stress adaptation; Biotic stress resistance; Flowering and development; Germplasm and diversity; Grain quality and nutrition; Hybrid breeding and fertility; Yield and plant architecture
+Sub1A,6,6,100.0,Abiotic stress adaptation; Biotic stress resistance; Germplasm and diversity; Grain quality and nutrition; Yield and plant architecture
+Ghd7,6,6,100.0,Flowering and development; Germplasm and diversity; Yield and plant architecture
+Pik,6,5,83.33333333333333,Biotic stress resistance; Germplasm and diversity
+Gn1a,5,5,100.0,Flowering and development; Grain quality and nutrition; Production environment and management; Yield and plant architecture
+DEP1,5,5,100.0,Grain quality and nutrition; Yield and plant architecture
+Pi54,5,5,100.0,Biotic stress resistance; Germplasm and diversity; Grain quality and nutrition; Hybrid breeding and fertility; Yield and plant architecture
+SH4,4,4,100.0,Germplasm and diversity
+IPA1,4,4,100.0,Abiotic stress adaptation; Yield and plant architecture
+Piz,4,3,75.0,Biotic stress resistance; Germplasm and diversity; Grain quality and nutrition; Yield and plant architecture
+Xa7,4,3,75.0,Biotic stress resistance; Germplasm and diversity; Yield and plant architecture
+GW5,4,4,100.0,Abiotic stress adaptation; Grain quality and nutrition; Hybrid breeding and fertility; Yield and plant architecture
+OsSUT1,3,3,100.0,Yield and plant architecture
+qSH3,3,3,100.0,Germplasm and diversity
+OsNAS2,3,3,100.0,Grain quality and nutrition; Yield and plant architecture
+OsWRKY45,3,3,100.0,Abiotic stress adaptation; Biotic stress resistance
+Pish,3,3,100.0,Biotic stress resistance; Yield and plant architecture
+OsBADH2,3,3,100.0,Grain quality and nutrition; Hybrid breeding and fertility; Yield and plant architecture
+HWC2,3,3,100.0,Germplasm and diversity
+ALK,3,3,100.0,Grain quality and nutrition; Hybrid breeding and fertility
+Pi2,3,3,100.0,Biotic stress resistance; Hybrid breeding and fertility; Yield and plant architecture
+qDTY12.1,3,3,100.0,Abiotic stress adaptation; Yield and plant architecture
+Pia,3,3,100.0,Biotic stress resistance; Germplasm and diversity; Grain quality and nutrition
+Rxo1,2,2,100.0,Biotic stress resistance
+OsHIR1,2,2,100.0,Biotic stress resistance
+OsLRR1,2,2,100.0,Biotic stress resistance
+OsAGPS2,2,2,100.0,Yield and plant architecture
+qSH1,2,2,100.0,Germplasm and diversity; Yield and plant architecture
+OsNAS1,2,2,100.0,Grain quality and nutrition
+OsNAS3,2,2,100.0,Grain quality and nutrition
+OsNAS,2,2,100.0,Grain quality and nutrition
+OsCYP96B4,2,2,100.0,Yield and plant architecture
+OsGH9,2,2,100.0,
+Xa14,2,2,100.0,Biotic stress resistance
+OsHSFA2,2,2,100.0,
+OsGolS1,2,2,100.0,
+OsHMA3,2,2,100.0,
+OsNPR1,2,2,100.0,Biotic stress resistance
+Bph18,2,2,100.0,
+Xa38,2,2,100.0,Biotic stress resistance; Germplasm and diversity; Grain quality and nutrition
+OsNAC,2,2,100.0,Abiotic stress adaptation; Yield and plant architecture
+Hd3a,2,2,100.0,Flowering and development; Physiology and plant processes; Yield and plant architecture
+OsSWEET14,2,2,100.0,Biotic stress resistance
+qCSS7,2,2,100.0,Germplasm and diversity
+qCSS2,2,2,100.0,Germplasm and diversity
+OsRR22,2,2,100.0,Abiotic stress adaptation; Germplasm and diversity; Hybrid breeding and fertility
+qDTY1.1,2,2,100.0,Abiotic stress adaptation; Yield and plant architecture
+pi21,2,2,100.0,Biotic stress resistance; Yield and plant architecture
+GW7,2,2,100.0,Grain quality and nutrition; Hybrid breeding and fertility; Yield and plant architecture
+OsCem,2,2,100.0,
+qGL7,2,2,100.0,Yield and plant architecture
+OsPRR37,2,2,100.0,Flowering and development; Yield and plant architecture
+Xa23,2,2,100.0,Biotic stress resistance; Hybrid breeding and fertility; Yield and plant architecture
+OsCKX2,2,1,50.0,Biotic stress resistance; Flowering and development; Yield and plant architecture
+FZP,2,2,100.0,Yield and plant architecture
+GW2,2,2,100.0,Yield and plant architecture
+OsSPL14,2,2,100.0,Abiotic stress adaptation; Yield and plant architecture
+Bph15,2,2,100.0,Biotic stress resistance; Grain quality and nutrition; Hybrid breeding and fertility
+Bph14,2,2,100.0,Biotic stress resistance; Grain quality and nutrition; Hybrid breeding and fertility
+OsNHX1,2,2,100.0,Abiotic stress adaptation
+MAT,2,2,100.0,Production environment and management
+Pi5,2,1,50.0,Biotic stress resistance; Germplasm and diversity; Grain quality and nutrition
+OsHKT1,2,2,100.0,Abiotic stress adaptation
+OsGRF4,2,2,100.0,Yield and plant architecture
+Piz-t,2,1,50.0,Germplasm and diversity
+LOC_Os11g15410,2,2,100.0,
+OsCDPK24,2,2,100.0,Biotic stress resistance
+OsAP2-39,2,2,100.0,Abiotic stress adaptation
+DEP2,1,0,0.0,
+SRS1,1,1,100.0,
+Bph25,1,1,100.0,Biotic stress resistance
+Bph26,1,1,100.0,Biotic stress resistance
+Bph3,1,1,100.0,Biotic stress resistance
+qRL7,1,1,100.0,Physiology and plant processes
+OsHMA2,1,1,100.0,
+OsTZF5,1,1,100.0,Abiotic stress adaptation; Yield and plant architecture
+OsCYP71P6,1,1,100.0,Biotic stress resistance; Yield and plant architecture
+OsCaM1-1,1,1,100.0,Abiotic stress adaptation
+OsBAG6,1,1,100.0,Abiotic stress adaptation
+OsCNR10,1,1,100.0,Yield and plant architecture
+OsK2,1,1,100.0,Yield and plant architecture
+qPH8.2,1,1,100.0,Yield and plant architecture
+OsVIL1,1,1,100.0,Yield and plant architecture
+OsVIL2,1,1,100.0,Yield and plant architecture
+OsTPP3,1,1,100.0,
+Sub1B,1,1,100.0,Abiotic stress adaptation
+Sub1C,1,1,100.0,Abiotic stress adaptation
+OsPUB43,1,1,100.0,Yield and plant architecture
+Xa39,1,1,100.0,
+OsPHOT2,1,1,100.0,
+OsMLH1,1,1,100.0,
+OsSUTs,1,1,100.0,Yield and plant architecture
+OsPUB3,1,1,100.0,
+Hd16,1,1,100.0,Flowering and development
+Hd18,1,1,100.0,Flowering and development
+OsNPR1-mediated,1,1,100.0,
+DHD3,1,1,100.0,Flowering and development; Yield and plant architecture
+DTH8,1,1,100.0,Flowering and development; Yield and plant architecture
+GW9,1,1,100.0,Yield and plant architecture
+qCTB8,1,1,100.0,
+qEMF3,1,1,100.0,Yield and plant architecture
+qHTSF4.1,1,1,100.0,Yield and plant architecture
+qHTSF1.1,1,1,100.0,Yield and plant architecture
+OsNOG1,1,1,100.0,Biotic stress resistance; Yield and plant architecture
+qBK1,1,1,100.0,Biotic stress resistance; Flowering and development; Germplasm and diversity; Grain quality and nutrition; Yield and plant architecture
+Pi40,1,1,100.0,
+qSPP4,1,1,100.0,Yield and plant architecture
+qGW9,1,1,100.0,Yield and plant architecture
+OsG6b,1,1,100.0,
+OsCO3,1,1,100.0,Flowering and development; Yield and plant architecture
+DTH2,1,1,100.0,Flowering and development; Yield and plant architecture
+LOC_Os11g03540,1,1,100.0,
+OsPHO1,1,1,100.0,Yield and plant architecture
+OsZIP7,1,1,100.0,Grain quality and nutrition
+OsCTF,1,1,100.0,
+qHD5,1,1,100.0,Yield and plant architecture
+qSBR11-1,1,1,100.0,Abiotic stress adaptation; Biotic stress resistance; Grain quality and nutrition; Yield and plant architecture
+OsEF1A,1,1,100.0,Abiotic stress adaptation; Yield and plant architecture
+qWCR4,1,1,100.0,Grain quality and nutrition; Yield and plant architecture
+Pi57,1,1,100.0,
+OsS40,1,1,100.0,Yield and plant architecture
+OsMADS4,1,1,100.0,
+OsMADS2,1,1,100.0,
+OsZAT-12,1,1,100.0,Flowering and development
+Pi25,1,1,100.0,Yield and plant architecture
+Pi26,1,1,100.0,Yield and plant architecture
+qMLWR11.2,1,1,100.0,
+qMLWR11.1,1,1,100.0,
+qRA5,1,1,100.0,Yield and plant architecture
+qTN4,1,1,100.0,
+GS5,1,1,100.0,Grain quality and nutrition; Hybrid breeding and fertility
+OsCOI2,1,1,100.0,
+Ghd8,1,1,100.0,Flowering and development; Yield and plant architecture
+OsAAP17,1,1,100.0,Yield and plant architecture
+OsGA2ox5,1,1,100.0,Flowering and development; Germplasm and diversity
+OsSET,1,1,100.0,
+OsSAPK6,1,1,100.0,Germplasm and diversity
+Pi1,1,1,100.0,Hybrid breeding and fertility; Yield and plant architecture
+OsHATs,1,1,100.0,Physiology and plant processes
+Hd2,1,1,100.0,Biotic stress resistance; Flowering and development; Yield and plant architecture
+SWEET11,1,1,100.0,Biotic stress resistance; Flowering and development; Yield and plant architecture
+OsSOT1,1,1,100.0,
+OsPHL3,1,1,100.0,Flowering and development
+OsUbi7,1,1,100.0,Biotic stress resistance; Flowering and development
+Hd9802S,1,1,100.0,Biotic stress resistance
+OsHXK1,1,1,100.0,Physiology and plant processes; Yield and plant architecture
+OsAAP11,1,1,100.0,Grain quality and nutrition
+Pi21,1,1,100.0,
+Pi45,1,1,100.0,Yield and plant architecture
+Xa20,1,1,100.0,Biotic stress resistance
+OsPQT3,1,1,100.0,Abiotic stress adaptation; Biotic stress resistance; Yield and plant architecture
+OsLCT1,1,1,100.0,Abiotic stress adaptation
+OsGA3ox2,1,1,100.0,Yield and plant architecture
+OsChlD,1,1,100.0,Physiology and plant processes
+qGL3-1,1,1,100.0,Yield and plant architecture
+qTGW8.1,1,1,100.0,Yield and plant architecture
+OsIRT1,1,1,100.0,
+OsFRO2,1,1,100.0,
+OsIRT2,1,1,100.0,
+OsAPX1,1,1,100.0,
+OsNRT2,1,1,100.0,Flowering and development; Yield and plant architecture
+OsSAPK3,1,1,100.0,Abiotic stress adaptation; Yield and plant architecture
+OsATG8,1,1,100.0,
+OsONAC096,1,1,100.0,Yield and plant architecture
+Bph37,1,1,100.0,Biotic stress resistance
+Bph1,1,1,100.0,Biotic stress resistance
+OsAA1,1,1,100.0,Abiotic stress adaptation; Yield and plant architecture
+OsCIPK2,1,1,100.0,
+OsHSP,1,1,100.0,Abiotic stress adaptation; Yield and plant architecture
+OsJAZ4-mediated,1,0,0.0,Biotic stress resistance
+OsMGD1-mediated,1,0,0.0,
+OsMND1,1,1,100.0,
+OsQHB,1,1,100.0,
+OsPK5,1,1,100.0,Abiotic stress adaptation
+OsSAP6,1,1,100.0,Abiotic stress adaptation
+OsSPL9,1,1,100.0,Yield and plant architecture
+OsFWL5,1,1,100.0,Biotic stress resistance
+OsNCED3,1,1,100.0,
+OsNPF7,1,1,100.0,Nutrient use and fertilizer response; Yield and plant architecture
+OsNAC14,1,1,100.0,Abiotic stress adaptation
+OsPHT1,1,1,100.0,Yield and plant architecture
+OsRab7,1,1,100.0,Abiotic stress adaptation; Yield and plant architecture
+OsGSTL2,1,1,100.0,
+OsNAC016,1,1,100.0,
+OsMIOX,1,1,100.0,Abiotic stress adaptation; Biotic stress resistance
+OsFTL10,1,1,100.0,Abiotic stress adaptation; Flowering and development
+OsLEA3,1,1,100.0,Abiotic stress adaptation
+qDRDW4,1,1,100.0,Abiotic stress adaptation; Grain quality and nutrition
+qOA1,1,1,100.0,Abiotic stress adaptation; Grain quality and nutrition
+qRL9,1,1,100.0,Abiotic stress adaptation; Grain quality and nutrition
+OsNCED2,1,1,100.0,Abiotic stress adaptation; Yield and plant architecture
+OsP5CR,1,1,100.0,Abiotic stress adaptation
+OsP5CS,1,1,100.0,Abiotic stress adaptation
+OsPRODH,1,1,100.0,Abiotic stress adaptation
+qXAR5,1,1,100.0,Biotic stress resistance
+qGL11,1,1,100.0,Yield and plant architecture
+Pi63,1,1,100.0,Flowering and development; Germplasm and diversity
+OsEPFL1,1,1,100.0,Germplasm and diversity
+OsMADS34,1,1,100.0,Yield and plant architecture
+OsRDR6,1,1,100.0,
+OsBadh2,1,1,100.0,Grain quality and nutrition
+OsCESA4,1,1,100.0,Yield and plant architecture
+OsNUC1-S,1,1,100.0,Abiotic stress adaptation; Physiology and plant processes; Yield and plant architecture
+qTSN4,1,1,100.0,Yield and plant architecture
+Pii,1,1,100.0,Biotic stress resistance; Germplasm and diversity; Grain quality and nutrition
+Pi3,1,1,100.0,Biotic stress resistance; Germplasm and diversity; Grain quality and nutrition
+OsSOS1,1,1,100.0,Abiotic stress adaptation
+Bph2,1,1,100.0,Biotic stress resistance
+Bph17,1,1,100.0,Biotic stress resistance
+Bph32,1,1,100.0,Biotic stress resistance
+OsAAP4,1,1,100.0,Yield and plant architecture
+OsALDH7,1,1,100.0,Yield and plant architecture
+OsSPL4,1,1,100.0,Yield and plant architecture
+qGL3,1,1,100.0,
+OsLOX10,1,1,100.0,Abiotic stress adaptation
+qSAC3,1,1,100.0,Grain quality and nutrition
+OsDREB2A,1,1,100.0,Abiotic stress adaptation
+OsNAC6,1,1,100.0,Abiotic stress adaptation
+OsDREB1A,1,1,100.0,Abiotic stress adaptation
+OsLEA27,1,1,100.0,Germplasm and diversity
+OsRUS1,1,1,100.0,
+OsPT8,1,1,100.0,Germplasm and diversity; Yield and plant architecture
+OsCERK1,1,1,100.0,Yield and plant architecture
+OsDEC,1,1,100.0,Abiotic stress adaptation; Yield and plant architecture
+OsJAZ9,1,1,100.0,
+OsBZR5,1,1,100.0,Yield and plant architecture
+qRBG1,1,1,100.0,Yield and plant architecture
+qPL6.2,1,1,100.0,Yield and plant architecture
+OsFBX148,1,1,100.0,Abiotic stress adaptation
+qCTS11,1,0,0.0,
+OsNLP,1,1,100.0,Nutrient use and fertilizer response; Production environment and management
+OsC1,1,1,100.0,Germplasm and diversity
+OsTGW6,1,1,100.0,Yield and plant architecture
+OsMPG,1,1,100.0,
+OsRibA,1,1,100.0,Grain quality and nutrition
+OsCRLK2,1,1,100.0,Grain quality and nutrition
+qSBN7,1,1,100.0,Yield and plant architecture
+OsRING315,1,1,100.0,Grain quality and nutrition
+qWS5,1,1,100.0,Yield and plant architecture
+OsSNDP4,1,1,100.0,
+OsGRF2,1,1,100.0,
+OsWRKY70,1,1,100.0,Abiotic stress adaptation
+OsOZ1,1,1,100.0,
+qLGY3,1,1,100.0,Yield and plant architecture
+OsALS,1,1,100.0,
+OsNAC74,1,1,100.0,Physiology and plant processes
+OsMIR530,1,1,100.0,Yield and plant architecture
+OsPIL11,1,1,100.0,Yield and plant architecture
+OsHSP70,1,1,100.0,
+OsSSID6,1,1,100.0,Abiotic stress adaptation; Physiology and plant processes
+qSD12,1,1,100.0,Flowering and development; Yield and plant architecture
+OsNTL2,1,1,100.0,Abiotic stress adaptation
+OsMYB,1,1,100.0,Biotic stress resistance
+Pi65,1,1,100.0,
+OsEAF6,1,1,100.0,
+GS2,1,1,100.0,
+OsTGS1,1,1,100.0,
+OsCDPK28,1,1,100.0,Biotic stress resistance
+OsHSFA4d,1,1,100.0,Biotic stress resistance
+OsCAD1,1,1,100.0,
+qCTS11-TK9,1,0,0.0,Abiotic stress adaptation
+OsWNK9,1,1,100.0,Abiotic stress adaptation
+OsGELP,1,1,100.0,
+OsOFP19,1,1,100.0,
+Gn1,1,1,100.0,Yield and plant architecture
+Gn2,1,1,100.0,Yield and plant architecture
+OsRPS5,1,1,100.0,
+OsLIC,1,1,100.0,Yield and plant architecture
+OsPht1,1,1,100.0,Yield and plant architecture
+OsHsfA4d,1,1,100.0,Yield and plant architecture
+OsDHSRP,1,1,100.0,Abiotic stress adaptation; Biotic stress resistance
+OsDHSRP1,1,1,100.0,Abiotic stress adaptation; Biotic stress resistance
+Hd6,1,1,100.0,Flowering and development; Germplasm and diversity
+qBFR4-1,1,1,100.0,Biotic stress resistance
+OsDR10,1,1,100.0,Biotic stress resistance
+qSTV11,1,1,100.0,
+OsTopVIB,1,1,100.0,
+OsSpo11-4,1,1,100.0,
+OsGSTF14,1,1,100.0,
+OsGSTU6,1,1,100.0,
+OsAAT,1,1,100.0,Flowering and development
+OsRH58,1,1,100.0,Abiotic stress adaptation; Biotic stress resistance; Physiology and plant processes
+LOC_Os04g42095,1,1,100.0,
+OsIAA23,1,1,100.0,
+OsCK1,1,1,100.0,Biotic stress resistance
+OsCAF2,1,1,100.0,
+OsGR1,1,1,100.0,
+OsGR2,1,1,100.0,
+OsABCC1,1,1,100.0,Flowering and development
+OsLsi2,1,1,100.0,Flowering and development
+OsLsi6,1,1,100.0,Flowering and development
+OsLsi3,1,1,100.0,Flowering and development
+OsLsi1,1,1,100.0,Flowering and development
+OsSERK2,1,1,100.0,
+OsANN4,1,1,100.0,
+OsFtsH2,1,1,100.0,Physiology and plant processes
+OsWRKY62,1,1,100.0,
+OsPPR939,1,1,100.0,
+OsMYBS2,1,1,100.0,
+OsCKI1,1,1,100.0,Grain quality and nutrition
+OsCSL1,1,1,100.0,
+OsWSS1,1,1,100.0,
+Bph30,1,1,100.0,Biotic stress resistance
+OsRKD3,1,1,100.0,
+OsPSY2,1,1,100.0,
+OsCOP1,1,1,100.0,
+OsDCL1,1,1,100.0,
+OsWRKY13,1,1,100.0,Abiotic stress adaptation; Biotic stress resistance
+OsGAD2,1,1,100.0,
+OsYSL18,1,1,100.0,
+OsPTR,1,1,100.0,Nutrient use and fertilizer response
+OsGLPs,1,1,100.0,Abiotic stress adaptation; Biotic stress resistance
+OsRDR1,1,1,100.0,
+qRL6.1,1,1,100.0,
+OsCIN1,1,1,100.0,Germplasm and diversity
+OsPIE1,1,1,100.0,
+OsIRO3,1,1,100.0,
+OsHXK,1,1,100.0,
+OsPC,1,1,100.0,
+OsAP2,1,1,100.0,Abiotic stress adaptation
+OsAMT1,1,1,100.0,Germplasm and diversity
+OsCPK18,1,1,100.0,Biotic stress resistance
+OsSUT2,1,1,100.0,
+OsHDT1,1,1,100.0,Flowering and development; Hybrid breeding and fertility
+OsDERF1,1,1,100.0,Abiotic stress adaptation
+OsERF3,1,1,100.0,Abiotic stress adaptation
+OsTIR1,1,1,100.0,Flowering and development; Yield and plant architecture
+OsAFB2,1,1,100.0,Flowering and development; Yield and plant architecture
+OsMCA1,1,1,100.0,
+OsWOX3B,1,1,100.0,
+OsBBX,1,1,100.0,Physiology and plant processes; Production environment and management
+OsHPL3,1,1,100.0,Biotic stress resistance
+OsARF24,1,1,100.0,
+OsRap2,1,1,100.0,
+OsRac1,1,1,100.0,
+OsMYB55,1,1,100.0,Yield and plant architecture
+OsMADS29,1,1,100.0,
+OsPFA-DSP2,1,1,100.0,Biotic stress resistance
+OsYSL16,1,1,100.0,

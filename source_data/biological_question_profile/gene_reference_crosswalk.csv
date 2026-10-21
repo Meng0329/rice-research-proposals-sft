@@ -1,0 +1,355 @@
+﻿question_symbol_candidate,question_symbol_record_mentions,match_status,reference_symbol_alias_groups,RAPdb_ids,MSU_ids,curated_keywords,functional_categories,keyword_evidence_rows
+Xa21,19,unique_reference_identifier,xa21,Os11g0559200,LOC_Os11g35500,aquaporin water channel; bacterial blight; blight; blight disease; cell death; cellulose; defense; defense response; disease; disease resistance; drought; growth; immunity; Kinase; leaf; lignin; nucleus; pathogen; plant growth; receptor kinase; resistance; root; seedling; seedlings; sheath; stress; stress tolerance; tolerance; transcription factor; xoo; xylem,Disease resistance; Abiotic stress response; Flowering and development; Physiology and signalling,106
+GS3,18,unique_reference_identifier,GS3,Os03g0407400,,development; grain; grain length; grain size; grain weight; grain width; panicle; seed; yield,Grain and nutritional traits; Yield and plant architecture; Flowering and development,57
+Sub1,17,no_exact_reference_alias_match,,,,,,0
+Pi-ta,16,no_exact_reference_alias_match,,,,,,0
+Xa5,16,unique_reference_identifier,Xa5,Os05g0107700,LOC_Os05g01710,bacterial blight; blight; blight disease; disease; disease resistance; pathogen; resistance; resistant; transcription factor,Disease resistance; Physiology and signalling,27
+Xa13,16,unique_reference_identifier,Os8N3|xa13|OsSWEET11,Os08g0535200,LOC_Os08g42350,anther; bacterial blight; blast; blight; blight disease; breeding; defense; development; disease; disease resistance; grain; grain filling; grain weight; grain-filling; growth; pericarp; pollen; pollen development; resistance; resistant; sheath; starch; sucrose; sugar; transporter; xoo; yield,Disease resistance; Abiotic stress response; Grain and nutritional traits; Yield and plant architecture; Flowering and development; Fertility and hybrid performance,91
+Wx,15,unique_reference_identifier,Wx|qFC6,Os06g0133000,LOC_Os06g04200,anther; branching; breeding; domestication; endosperm; grain; grain quality; quality; seed; starch; starch biosynthesis,Grain and nutritional traits; Fertility and hybrid performance,54
+Saltol,14,no_exact_reference_alias_match,,,,,,0
+Pi-b,13,no_exact_reference_alias_match,,,,,,0
+Xa4,11,symbol_alias_match_without_reference_identifier,Xa4,,,breeding; cell wall; culm; disease; disease resistance; lesion; lodging; lodging resistance; plant height; resistance; temperature; xoo,Disease resistance; Yield and plant architecture,17
+BADH2,9,no_exact_reference_alias_match,,,,,,0
+AG1,8,unique_reference_identifier,OsTPP7|AG1,Os09g0369400,LOC_Os09g20390,growth; starch; submergence; sucrose; sugar; tolerance,Abiotic stress response; Grain and nutritional traits; Flowering and development,6
+sd1,8,unique_reference_identifier,sd1|GA20ox2|OsGA20ox2,Os01g0883800,LOC_Os01g66100,dwarf; ga; gibberellin; Gibberellin; gibberellin biosynthesis; grain protein; grain protein content; growth; height; plant height; shoot; transcription factor,Grain and nutritional traits; Yield and plant architecture; Flowering and development; Physiology and signalling,23
+GW8,7,unique_reference_identifier,qGW8|OsSPL16|GW8,Os08g0531600,LOC_Os08g41940,cell cycle; grain; grain quality; grain shape; grain size; grain yield; yield,Grain and nutritional traits; Yield and plant architecture,15
+Hd1,7,unique_reference_identifier,Hd1,Os06g0275000,LOC_Os06g16370,breeding; domestication; floral; flower; flowering time; grain; grain yield; heading date; height; leaf; meristem; panicle; plant height; shoot; shoot apical meristem; spikelet; spikelet number; temperature; vegetative; yield,Grain and nutritional traits; Yield and plant architecture; Flowering and development,109
+Pi9,7,unique_reference_identifier,Pi9|Piz-t|Pi2,Os06g0286700,LOC_Os06g17900,blast; blast resistance; breeding; development; disease; disease resistance; resistance; resistant; sterile,Disease resistance; Flowering and development; Fertility and hybrid performance,48
+Sub1A,6,symbol_alias_match_without_reference_identifier,Sub1A,,,ABA; auxin; drought; drought tolerance; ethylene; ethylene response; floral; flower; ga; gibberellin; growth; homeostasis; jasmonate; leaf; mature leaves; nitrogen; oxidative; photosynthesis; salicylic acid; senescence; shoot; starch; stress; stress tolerance; submergence; submergence tolerance; tolerance; transcription factor; vegetative,Abiotic stress response; Grain and nutritional traits; Flowering and development; Nutrient use; Physiology and signalling,115
+Ghd7,6,unique_reference_identifier,Ghd7,Os07g0261200,LOC_Os07g15770,abiotic stress; adaptability; architecture; biotic stress; breeding; chloroplast; development; domestication; floral; flower; flowering; flowering time; grain; grain number; grains per panicle; growth; growth rate; heading date; height; map-based cloning; panicle; panicle size; stress; stress response; temperature; transcription factor; transcriptional activator; transcriptional regulator; yield,Abiotic stress response; Grain and nutritional traits; Yield and plant architecture; Flowering and development; Physiology and signalling,110
+Pik,6,no_exact_reference_alias_match,,,,,,0
+Gn1a,5,unique_reference_identifier,Gn1a|OsCKX2,Os01g0197700,LOC_Os01g10110,biomass; biomass production; branching; breeding; cell division; cell wall; cytokinin; drought; grain; grain number; grain size; grain weight; grain yield; growth; inflorescence; meristem; panicle; phytohormone; plant growth; reproductive; salinity; salinity stress; salt; salt tolerance; shoot; spikelet; stem; stress; tiller; tiller number; transcription factor; yield,Abiotic stress response; Grain and nutritional traits; Yield and plant architecture; Flowering and development; Physiology and signalling,91
+DEP1,5,unique_reference_identifier,DEP1|DN1|qPE9-1|OsDEP1,Os09g0441900,LOC_Os09g26999,architecture; breeding; cadmium; cell death; development; domestication; dwarf; erect; gibberellin; grain; grain length; grain weight; grain yield; grains per panicle; height; nitrogen; panicle; panicle architecture; phytohormone; quality; root; shoot; spikelet; tiller; yield,Abiotic stress response; Grain and nutritional traits; Yield and plant architecture; Flowering and development; Nutrient use; Physiology and signalling,100
+Pi54,5,unique_reference_identifier,pikh|pi54|Pi-kh,Os11g0639100,LOC_Os11g42010,bacterial blight; blast; blast disease; blast resistance; blight; breeding; defense; defense response; development; disease; disease resistance; domestication; grain; grain weight; magnaporthe oryzae; quality; resistance; resistant; root; sheath; tiller; tiller number; tolerance; transcription factor; yield,Disease resistance; Abiotic stress response; Grain and nutritional traits; Yield and plant architecture; Flowering and development; Physiology and signalling,79
+SH4,4,unique_reference_identifier,sh4|SHA1|SG5,Os04g0670900,LOC_Os04g57530,cell expansion; development; domestication; grain; grain length; growth; nucleus; seed; seed shattering; shattering; spikelet; transcription factor; young panicles,Grain and nutritional traits; Yield and plant architecture; Flowering and development; Physiology and signalling,43
+IPA1,4,unique_reference_identifier,OsSPL14|IPA1|WFP,Os08g0509600,LOC_Os08g39890,ABA; ABA biosynthesis; ABA catabolism; abscisic acid; architecture; branching; breeding; defense; development; disease; disease resistance; drought; drought resistance; drought tolerance; erect; ga; GA; Gibberellin; gibberellin; grain; grain yield; grains per panicle; growth; height; immunity; leaf; lodging; lodging resistance; magnaporthe oryzae; nitrogen; panicle; panicle architecture; pathogen; plant architecture; plant growth; reactive oxygen species; reproductive; resistance; root; seed; seed germination; seedling; seedling growth; seedlings; shoot; starch; stomatal; stress tolerance; strigolactone; tiller; tiller number; tillering; tolerance; transcription activator; transcription factor; vegetative; yield,Disease resistance; Abiotic stress response; Grain and nutritional traits; Yield and plant architecture; Flowering and development; Nutrient use; Physiology and signalling,177
+Piz,4,no_exact_reference_alias_match,,,,,,0
+Xa7,4,no_exact_reference_alias_match,,,,,,0
+GW5,4,symbol_alias_match_without_reference_identifier,GW5|qSW5,,,BR; brassinosteroid; Brassinosteroid; breeding; cell division; domestication; flower; grain; grain width; grain yield; growth; Kinase; nucleus; plasma membrane; seed; seed development; yield,Grain and nutritional traits; Yield and plant architecture; Flowering and development,39
+OsSUT1,3,unique_reference_identifier,OsSUT1,Os03g0170900,LOC_Os03g07480,development; endosperm; epidermis; grain; grain filling; grain yield; growth; leaf; phloem; photosynthesis; plasma membrane; pollen; primary root; reproductive; root; salt; seed; seedling; sheath; shoot; starch; starch biosynthesis; stem; temperature; transporter; vascular bundle; vegetative; xylem,Abiotic stress response; Grain and nutritional traits; Yield and plant architecture; Flowering and development; Fertility and hybrid performance; Physiology and signalling,91
+qSH3,3,no_exact_reference_alias_match,,,,,,0
+OsNAS2,3,unique_reference_identifier,OsNAS2,Os03g0307200,LOC_Os03g19420,endosperm; ethylene; Fe; grain; iron; root; seed; tolerance; transcription factor; vascular bundle; xylem; zinc,Grain and nutritional traits; Flowering and development; Physiology and signalling,22
+OsWRKY45,3,unique_reference_identifier,OsWRKY45|WRKY45,Os05g0322900,LOC_Os05g25770,ABA; abiotic stress; abscisic acid; biotic stress; blast; blast resistance; blight; breeding; brown planthopper; cold tolerance; defence; defense; development; disease; disease resistance; drought; drought tolerance; growth; jasmonic; jasmonic acid; leaf; magnaporthe oryzae; pathogen; resistance; resistant; sa; salicylic acid; salt; salt stress; stress; temperature; transcription factor; Ubiquitin; xoo; yield,Disease resistance; Abiotic stress response; Yield and plant architecture; Flowering and development; Physiology and signalling,77
+Pish,3,unique_reference_identifier,PISH,Os01g0782100,LOC_Os01g57340,blast; blast resistance,Disease resistance,2
+OsBADH2,3,unique_reference_identifier,OsBADH2|fgr,Os08g0424500,LOC_Os08g32870,root; sterile,Flowering and development; Fertility and hybrid performance,2
+HWC2,3,no_exact_reference_alias_match,,,,,,0
+ALK,3,unique_reference_identifier,ALK|SSIIa,Os06g0229800,LOC_Os06g12450,domestication; grain; quality; starch; temperature,Grain and nutritional traits,16
+Pi2,3,unique_reference_identifier,Pi9|Piz-t|Pi2,Os06g0286700,LOC_Os06g17900,blast; blast resistance; breeding; development; disease; disease resistance; resistance; resistant; sterile,Disease resistance; Flowering and development; Fertility and hybrid performance,48
+qDTY12.1,3,no_exact_reference_alias_match,,,,,,0
+Pia,3,no_exact_reference_alias_match,,,,,,0
+Rxo1,2,no_exact_reference_alias_match,,,,,,0
+OsHIR1,2,unique_reference_identifier,OsHIR1,Os08g0398400,LOC_Os08g30790,cell death,,2
+OsLRR1,2,unique_reference_identifier,OsLRR1,Os01g0809300,LOC_Os01g59440,disease,Disease resistance,1
+OsAGPS2,2,no_exact_reference_alias_match,,,,,,0
+qSH1,2,unique_reference_identifier,qSH1|RIL1,Os01g0848400,LOC_Os01g62920,awn; meristem; seed; seed shattering; shattering; shoot; shoot apical meristem,,13
+OsNAS1,2,unique_reference_identifier,OsNAS1,Os03g0307300,LOC_Os03g19427,ethylene; iron; root; transcription factor; vascular bundle; xylem,Grain and nutritional traits; Flowering and development; Physiology and signalling,8
+OsNAS3,2,unique_reference_identifier,OsNAS3,Os07g0689600,LOC_Os07g48980,Fe; iron; root; seed; shoot; tolerance; transcription factor; zinc,Grain and nutritional traits; Flowering and development; Physiology and signalling,14
+OsNAS,2,no_exact_reference_alias_match,,,,,,0
+OsCYP96B4,2,unique_reference_identifier,OsCYP96B4|BSH1|SD37|OsDSS1,Os03g0140400,LOC_Os03g04680,cell elongation; cell wall; development; dwarf; height; map-based cloning; phytohormone; pollen,Flowering and development; Fertility and hybrid performance; Physiology and signalling,11
+OsGH9,2,no_exact_reference_alias_match,,,,,,0
+Xa14,2,no_exact_reference_alias_match,,,,,,0
+OsHSFA2,2,no_exact_reference_alias_match,,,,,,0
+OsGolS1,2,symbol_alias_matched_no_keyword_annotation,OsGolS1,Os03g0316200,LOC_Os03g20120,,,0
+OsHMA3,2,unique_reference_identifier,qCdT7|OsHMA3,Os07g0232900,LOC_Os07g12900,ATPase; auxin; cadmium; cadmium accumulation; development; drought; drought stress; Fe; grain; homeostasis; lateral root; map-based cloning; phloem; root; root elongation; shoot; stress; tolerance; transporter; vascular bundle; xylem,Abiotic stress response; Grain and nutritional traits; Flowering and development,63
+OsNPR1,2,unique_reference_identifier,OsNPR1|NH1,Os01g0194300,LOC_Os01g09800,bacterial blight; blast; blight; blight disease; defense; defense response; disease; disease resistance; dwarf; ethylene; flower; growth; ja; jasmonic; jasmonic acid; leaf; magnaporthe oryzae; resistant; sa; salicylic acid; stem; transcription factor,Disease resistance; Flowering and development; Physiology and signalling,59
+Bph18,2,unique_reference_identifier,BPH26|BPH18,Os12g0559400,LOC_Os12g37280,brown planthopper; insect; leaf; map-based cloning; phloem; R protein; resistance; vascular bundle,Disease resistance; Grain and nutritional traits,19
+Xa38,2,no_exact_reference_alias_match,,,,,,0
+OsNAC,2,no_exact_reference_alias_match,,,,,,0
+Hd3a,2,unique_reference_identifier,Hd3a,Os06g0157700,LOC_Os06g06320,axillary meristem; branching; domestication; floral; flower; flowering; flowering time; heading date; leaf; meristem; phloem; shoot; shoot apical meristem; strigolactone; temperature; transcription factor; Ubiquitin,Flowering and development; Physiology and signalling,99
+OsSWEET14,2,unique_reference_identifier,Os11N3|OsSWEET14,Os11g0508600,LOC_Os11g31190,bacterial blight; blight; blight disease; breeding; development; disease; disease resistance; endosperm; grain; grain filling; grain weight; grain-filling; height; leaf; pericarp; plant height; resistance; resistant; root; starch; sucrose; sugar; transporter; xoo; yield,Disease resistance; Grain and nutritional traits; Yield and plant architecture; Flowering and development,54
+qCSS7,2,no_exact_reference_alias_match,,,,,,0
+qCSS2,2,no_exact_reference_alias_match,,,,,,0
+OsRR22,2,symbol_alias_matched_no_keyword_annotation,OsRR22|HST1,Os06g0183100,LOC_Os06g08440,,,0
+qDTY1.1,2,no_exact_reference_alias_match,,,,,,0
+pi21,2,unique_reference_identifier,Pi21,Os04g0401000,LOC_Os04g32850,blast; blast resistance; defense; defense response; magnaporthe oryzae; resistance; resistant,Disease resistance,15
+GW7,2,unique_reference_identifier,GW7|GL7|SLG7|Chalk7,Os07g0603300,LOC_Os07g41200,breeding; cell division; cell elongation; chalkiness; development; grain; grain length; grain shape; grain size; grain weight; grain width; plasma membrane; quality; transcription factor; yield,Grain and nutritional traits; Yield and plant architecture; Flowering and development; Physiology and signalling,31
+OsCem,2,no_exact_reference_alias_match,,,,,,0
+qGL7,2,no_exact_reference_alias_match,,,,,,0
+OsPRR37,2,unique_reference_identifier,Ghd7.1|Hd2|OsPRR37|DTH7,Os07g0695100,LOC_Os07g49460,flowering time; grain; grain yield; heading date; height; map-based cloning; panicle; spikelet; spikelets per panicle; yield,Grain and nutritional traits; Yield and plant architecture; Flowering and development,22
+Xa23,2,symbol_alias_match_without_reference_identifier,XA23,,,bacterial blight; broad-spectrum disease resistance; disease; disease resistance; R protein,Disease resistance; Grain and nutritional traits,5
+OsCKX2,2,unique_reference_identifier,Gn1a|OsCKX2,Os01g0197700,LOC_Os01g10110,biomass; biomass production; branching; breeding; cell division; cell wall; cytokinin; drought; grain; grain number; grain size; grain weight; grain yield; growth; inflorescence; meristem; panicle; phytohormone; plant growth; reproductive; salinity; salinity stress; salt; salt tolerance; shoot; spikelet; stem; stress; tiller; tiller number; transcription factor; yield,Abiotic stress response; Grain and nutritional traits; Yield and plant architecture; Flowering and development; Physiology and signalling,91
+FZP,2,unique_reference_identifier,FZP|BFL1|SGDP7|PAA7,Os07g0669500,LOC_Os07g47330,anther; architecture; auxin; auxin response; axillary meristem; branching; cell death; culm; development; ethylene; floral; floral meristem; floral organ; grain; grain number; grain size; grain weight; grain yield; growth; heading date; inflorescence; leaf; lemma; map-based cloning; meristem; organ identity; panicle; panicle architecture; panicle development; programmed cell death; reproductive; seed; shoot; spikelet; spikelet meristem; spikelets per panicle; sterile; tiller; transcription factor; vegetative; yield,Grain and nutritional traits; Yield and plant architecture; Flowering and development; Fertility and hybrid performance; Physiology and signalling,136
+GW2,2,unique_reference_identifier,GW2|OsGW2,Os02g0244100,LOC_Os02g14720,breeding; cell cycle; cell division; cell proliferation; chlorophyll content; culm; cytoplasm; development; GA; grain; grain size; grain width; grain yield; Kinase; leaf; leaf senescence; lodging; lodging resistance; nucleus; nutritional quality; pathogen; quality; reproductive; reproductive growth; resistance; root; seed; seed development; seed size; senescence; spikelet; Ubiquitin; vegetative; yield,Disease resistance; Grain and nutritional traits; Yield and plant architecture; Flowering and development; Physiology and signalling,85
+OsSPL14,2,unique_reference_identifier,OsSPL14|IPA1|WFP,Os08g0509600,LOC_Os08g39890,ABA; ABA biosynthesis; ABA catabolism; abscisic acid; architecture; branching; breeding; defense; development; disease; disease resistance; drought; drought resistance; drought tolerance; erect; ga; GA; Gibberellin; gibberellin; grain; grain yield; grains per panicle; growth; height; immunity; leaf; lodging; lodging resistance; magnaporthe oryzae; nitrogen; panicle; panicle architecture; pathogen; plant architecture; plant growth; reactive oxygen species; reproductive; resistance; root; seed; seed germination; seedling; seedling growth; seedlings; shoot; starch; stomatal; stress tolerance; strigolactone; tiller; tiller number; tillering; tolerance; transcription activator; transcription factor; vegetative; yield,Disease resistance; Abiotic stress response; Grain and nutritional traits; Yield and plant architecture; Flowering and development; Nutrient use; Physiology and signalling,177
+Bph14,2,unique_reference_identifier,Bph14,Os03g0848700,LOC_Os03g63150,brown planthopper; defense; defense response; growth; insect; nitrogen; resistance; salicylic acid; seedling; transcription factor; vascular bundle,Disease resistance; Flowering and development; Nutrient use; Physiology and signalling,17
+Bph15,2,no_exact_reference_alias_match,,,,,,0
+OsNHX1,2,unique_reference_identifier,OsNHX1,Os07g0666900,LOC_Os07g47100,abiotic stress; drought; drought tolerance; grain; grain yield; lateral root; pollen; root; salt; salt stress; salt tolerance; seedling; shoot; stomatal; tolerance; vascular bundle; yield,Abiotic stress response; Grain and nutritional traits; Yield and plant architecture; Flowering and development; Fertility and hybrid performance,29
+MAT,2,no_exact_reference_alias_match,,,,,,0
+Pi5,2,no_exact_reference_alias_match,,,,,,0
+OsHKT1,2,unique_reference_identifier,OsHKT2;1|OsHKT1,Os06g0701700,LOC_Os06g48810,growth; homeostasis; potassium; root; salt; salt stress; salt tolerance; seedlings; shoot; stress; tolerance; transporter,Abiotic stress response; Flowering and development; Nutrient use,47
+OsGRF4,2,unique_reference_identifier,GS2|OsGRF4|GL2|GLW2|LGS1,Os02g0701300,LOC_Os02g47280,brassinosteroid; Brassinosteroid; breeding; cold stress; cold tolerance; cytokinin; development; grain; grain size; grain weight; grain yield; heat tolerance; nitrogen; panicle; seed; seed shattering; seedling; seedlings; shattering; stress; stress response; tolerance; transcription activator; transcription factor; transcriptional regulator; yield,Abiotic stress response; Grain and nutritional traits; Yield and plant architecture; Flowering and development; Nutrient use; Physiology and signalling,60
+Piz-t,2,unique_reference_identifier,Pi9|Piz-t|Pi2,Os06g0286700,LOC_Os06g17900,blast; blast resistance; breeding; development; disease; disease resistance; resistance; resistant; sterile,Disease resistance; Flowering and development; Fertility and hybrid performance,48
+LOC_Os11g15410,2,no_exact_reference_alias_match,,,,,,0
+OsCDPK24,2,unique_reference_identifier,OsCPK24|OsCDPK14|OsCDPK24,Os11g0171500,LOC_Os11g07040,ABA; calcium; cold stress; cold tolerance; development; Kinase; resistance; stress; stress response; stress tolerance; tolerance; xoo; Xoo,Disease resistance; Abiotic stress response; Flowering and development,28
+OsAP2-39,2,unique_reference_identifier,OsAP2-39,Os04g0610400,LOC_Os04g52090,ABA; abscisic acid; biomass; development; drought; drought tolerance; ethylene; GA; ga; gibberellin; growth; height; nucleus; plant height; seed; transcription activator; transcription factor; yield,Abiotic stress response; Yield and plant architecture; Flowering and development; Physiology and signalling,31
+DEP2,1,unique_reference_identifier,DEP2|EP2|SRS1|OsRELA,Os07g0616000,LOC_Os07g42410,architecture; BR; BR signaling; breeding; erect; grain; grain number; grain size; leaf; leaf angle; lemma; map-based cloning; panicle; panicle architecture; seed; seed size; stem; transcriptional regulator; vascular bundle,Grain and nutritional traits; Yield and plant architecture; Physiology and signalling,40
+SRS1,1,unique_reference_identifier,DEP2|EP2|SRS1|OsRELA,Os07g0616000,LOC_Os07g42410,architecture; BR; BR signaling; breeding; erect; grain; grain number; grain size; leaf; leaf angle; lemma; map-based cloning; panicle; panicle architecture; seed; seed size; stem; transcriptional regulator; vascular bundle,Grain and nutritional traits; Yield and plant architecture; Physiology and signalling,40
+Bph26,1,unique_reference_identifier,BPH26|BPH18,Os12g0559400,LOC_Os12g37280,brown planthopper; insect; leaf; map-based cloning; phloem; R protein; resistance; vascular bundle,Disease resistance; Grain and nutritional traits,19
+Bph25,1,no_exact_reference_alias_match,,,,,,0
+Bph3,1,no_exact_reference_alias_match,,,,,,0
+qRL7,1,no_exact_reference_alias_match,,,,,,0
+OsHMA2,1,unique_reference_identifier,OsHMA2|OsHMA2v,Os06g0700700,LOC_Os06g48720,cadmium; grain; growth; reproductive; root; shoot; transporter; vascular bundle; vegetative; xylem; zinc,Abiotic stress response; Grain and nutritional traits; Flowering and development,38
+OsTZF5,1,unique_reference_identifier,OsTZF5,Os05g0128200,LOC_Os05g03760,abscisic acid; cold; cold stress; drought; drought stress; drought tolerance; grain; grain yield; growth; R protein; stress; tolerance; Ubiquitin; yield; zinc,Abiotic stress response; Grain and nutritional traits; Yield and plant architecture; Flowering and development,22
+OsCYP71P6,1,no_exact_reference_alias_match,,,,,,0
+OsBAG6,1,unique_reference_identifier,OsBAG6,Os11g0506800,LOC_Os11g31060,cell wall; disease; phytohormone,Disease resistance; Physiology and signalling,3
+OsCaM1-1,1,unique_reference_identifier,OsCam1-1,Os03g0319300,LOC_Os03g20370,ABA; photosynthesis; salt; salt stress; starch; stress; stress response; sucrose; temperature,Abiotic stress response; Grain and nutritional traits; Physiology and signalling,18
+OsCNR10,1,unique_reference_identifier,OsFWL6|OsCNR10,Os03g0830200,LOC_Os03g61470,grains per panicle; panicle,Grain and nutritional traits; Yield and plant architecture,2
+OsK2,1,no_exact_reference_alias_match,,,,,,0
+qPH8.2,1,no_exact_reference_alias_match,,,,,,0
+OsVIL1,1,symbol_alias_matched_no_keyword_annotation,OsVIL1,Os08g0220600,LOC_Os08g12430,,,0
+OsVIL2,1,unique_reference_identifier,OsVIL2,Os12g0533500,LOC_Os12g34850,biomass; biomass production; cytokinin; flower; grain; grain number; grain yield; heading date; tiller; tiller number,Grain and nutritional traits; Yield and plant architecture; Flowering and development,21
+OsTPP3,1,no_exact_reference_alias_match,,,,,,0
+Sub1C,1,unique_reference_identifier,Sub1C,Os09g0286600,LOC_Os09g11460,ethylene; flower; ga; submergence; transcription factor,Abiotic stress response; Flowering and development; Physiology and signalling,8
+Sub1B,1,unique_reference_identifier,Sub1B,Os09g0287000,LOC_Os09g11480,submergence tolerance,Abiotic stress response,1
+OsPUB43,1,unique_reference_identifier,OsPUB43,Os02g0548700,LOC_Os02g34410,BR; cell proliferation; cytoplasm; grain; grain length; grain size; nucleus; spikelet,Grain and nutritional traits; Yield and plant architecture,14
+Xa39,1,no_exact_reference_alias_match,,,,,,0
+OsPHOT2,1,no_exact_reference_alias_match,,,,,,0
+OsMLH1,1,unique_reference_identifier,OsMLH1|PSSR1,Os01g0958900,LOC_Os01g72880,crossover; development; meiosis; microspore; seed set,Flowering and development,7
+OsSUTs,1,no_exact_reference_alias_match,,,,,,0
+OsPUB3,1,unique_reference_identifier,OsPUB3,Os01g0823900,LOC_Os01g60860,cold stress; grain; grain weight; stress; stress response; temperature; Ubiquitin,Abiotic stress response; Grain and nutritional traits,17
+Hd16,1,unique_reference_identifier,CKI|EL1|Hd16,Os03g0793500,LOC_Os03g57940,anther; anther development; development; dwarf; fertility; flower; flowering time; ga; GA; gibberellin; grain; grain yield; heading date; Kinase; meiosis; seed; spikelet; sterile; transcription factor; transcriptional regulator; yield,Grain and nutritional traits; Yield and plant architecture; Flowering and development; Fertility and hybrid performance; Physiology and signalling,44
+Hd18,1,unique_reference_identifier,Hd18,Os08g0143400,LOC_Os08g04780,flowering time; heading date,Flowering and development,4
+OsNPR1-mediated,1,no_exact_reference_alias_match,,,,,,0
+DHD3,1,no_exact_reference_alias_match,,,,,,0
+DTH8,1,unique_reference_identifier,Hd5|DTH8|Ghd8|OsHAP3H|LHD1|EF8|CAR8|OsNF-YB11,Os08g0174500,LOC_Os08g07740,branching; breeding; chlorophyll biogenesis; cold tolerance; drought; drought stress; ER stress; floral; flower; flowering; flowering time; grain; grain yield; grains per panicle; heading date; height; nucleus; panicle; photosynthesis; plant height; R protein; reproductive; salinity; salinity stress; stress; stress tolerance; tiller; tillering; tolerance; transcription factor; yield,Abiotic stress response; Grain and nutritional traits; Yield and plant architecture; Flowering and development; Physiology and signalling,90
+GW9,1,no_exact_reference_alias_match,,,,,,0
+qCTB8,1,no_exact_reference_alias_match,,,,,,0
+qEMF3,1,no_exact_reference_alias_match,,,,,,0
+qHTSF4.1,1,no_exact_reference_alias_match,,,,,,0
+qHTSF1.1,1,no_exact_reference_alias_match,,,,,,0
+OsNOG1,1,no_exact_reference_alias_match,,,,,,0
+qBK1,1,no_exact_reference_alias_match,,,,,,0
+Pi40,1,no_exact_reference_alias_match,,,,,,0
+qGW9,1,no_exact_reference_alias_match,,,,,,0
+qSPP4,1,no_exact_reference_alias_match,,,,,,0
+OsG6b,1,no_exact_reference_alias_match,,,,,,0
+OsCO3,1,unique_reference_identifier,OsCO3,Os09g0240200,LOC_Os09g06464,flower; flowering time,Flowering and development,5
+DTH2,1,unique_reference_identifier,DTH2|OsCOL9|OsCCT08,Os02g0724000,LOC_Os02g49230,blast; blast resistance; breeding; domestication; ethylene; floral; flower; flowering time; grain; grain number; heading date; magnaporthe oryzae; nucleus; panicle; pathogen; phytohormone; reproductive; resistance; sa; SA; salicylic acid; yield,Disease resistance; Grain and nutritional traits; Yield and plant architecture; Flowering and development; Physiology and signalling,35
+LOC_Os11g03540,1,no_exact_reference_alias_match,,,,,,0
+OsPHO1,1,no_exact_reference_alias_match,,,,,,0
+OsZIP7,1,unique_reference_identifier,OsZIP7a|OsZIP7,Os05g0198400,LOC_Os05g10940,cadmium; Fe; grain; homeostasis; iron; plasma membrane; root; shoot; tolerance; transporter; vascular bundle; xylem; zinc,Abiotic stress response; Grain and nutritional traits; Flowering and development,25
+OsCTF,1,unique_reference_identifier,OsCTF,Os06g0296100,LOC_Os06g19210,cadmium; cadmium tolerance; demethylation; tolerance,Abiotic stress response,4
+qHD5,1,unique_reference_identifier,RSR1|qHD5,Os05g0121600,LOC_Os05g03040,domestication; ethylene; flowering; heading date; nucleus; seed; seed size; starch; starch biosynthesis; temperature; transcription factor; yield,Grain and nutritional traits; Yield and plant architecture; Flowering and development; Physiology and signalling,21
+qSBR11-1,1,no_exact_reference_alias_match,,,,,,0
+OsEF1A,1,no_exact_reference_alias_match,,,,,,0
+qWCR4,1,no_exact_reference_alias_match,,,,,,0
+Pi57,1,no_exact_reference_alias_match,,,,,,0
+OsS40,1,no_exact_reference_alias_match,,,,,,0
+OsMADS2,1,unique_reference_identifier,OsMADS2,Os01g0883100,LOC_Os01g66030,architecture; cell division; development; floral; growth; organ size; stamen; transcription factor,Grain and nutritional traits; Yield and plant architecture; Flowering and development; Physiology and signalling,11
+OsMADS4,1,unique_reference_identifier,OsMADS4,Os05g0423400,LOC_Os05g34940,architecture; cell division; floral; flower; pi; stamen,Yield and plant architecture; Flowering and development,10
+OsZAT-12,1,no_exact_reference_alias_match,,,,,,0
+Pi25,1,unique_reference_identifier,Pi25|Pid3,Os06g0330100,LOC_Os06g22460,blast; blast resistance; breeding; leaf; magnaporthe oryzae; resistance,Disease resistance,25
+Pi26,1,no_exact_reference_alias_match,,,,,,0
+qMLWR11.1,1,no_exact_reference_alias_match,,,,,,0
+qMLWR11.2,1,no_exact_reference_alias_match,,,,,,0
+qRA5,1,no_exact_reference_alias_match,,,,,,0
+qTN4,1,no_exact_reference_alias_match,,,,,,0
+GS5,1,unique_reference_identifier,GS5,Os05g0158500,LOC_Os05g06660,abscisic acid; grain; grain size; grain width; yield,Grain and nutritional traits; Yield and plant architecture,23
+OsCOI2,1,unique_reference_identifier,OsCOI2,Os03g0265500,LOC_Os03g15880,chlorophyll; defense; fertility; grain; grain size; growth; JA; ja; jasmonate; leaf; leaf senescence; male sterility; methyl jasmonate; root; root growth; seedlings; shoot; spikelet; spikelet development,Disease resistance; Grain and nutritional traits; Yield and plant architecture; Flowering and development; Fertility and hybrid performance; Physiology and signalling,30
+Ghd8,1,unique_reference_identifier,Hd5|DTH8|Ghd8|OsHAP3H|LHD1|EF8|CAR8|OsNF-YB11,Os08g0174500,LOC_Os08g07740,branching; breeding; chlorophyll biogenesis; cold tolerance; drought; drought stress; ER stress; floral; flower; flowering; flowering time; grain; grain yield; grains per panicle; heading date; height; nucleus; panicle; photosynthesis; plant height; R protein; reproductive; salinity; salinity stress; stress; stress tolerance; tiller; tillering; tolerance; transcription factor; yield,Abiotic stress response; Grain and nutritional traits; Yield and plant architecture; Flowering and development; Physiology and signalling,90
+OsAAP17,1,no_exact_reference_alias_match,,,,,,0
+OsGA2ox5,1,unique_reference_identifier,OsGA2ox5,Os07g0103500,LOC_Os07g01340,culm; dwarf; ga; gibberellin; growth; homeostasis; panicle; reproductive; resistant; root; salinity; salinity stress; salt; salt stress; sheath; starch; stem,Abiotic stress response; Grain and nutritional traits; Yield and plant architecture; Flowering and development,20
+OsSET,1,no_exact_reference_alias_match,,,,,,0
+OsSAPK6,1,unique_reference_identifier,SAPK6|OSRK1|OsSAPK6,Os02g0551100,LOC_Os02g34600,ABA; chilling; chilling stress; drought; Kinase; protein kinase; resistance; root; seed; seed germination; stress; temperature; tolerance; transcription factor; vegetative,Disease resistance; Abiotic stress response; Grain and nutritional traits; Flowering and development; Physiology and signalling,21
+Pi1,1,no_exact_reference_alias_match,,,,,,0
+OsHATs,1,no_exact_reference_alias_match,,,,,,0
+SWEET11,1,no_exact_reference_alias_match,,,,,,0
+Hd2,1,unique_reference_identifier,Ghd7.1|Hd2|OsPRR37|DTH7,Os07g0695100,LOC_Os07g49460,flowering time; grain; grain yield; heading date; height; map-based cloning; panicle; spikelet; spikelets per panicle; yield,Grain and nutritional traits; Yield and plant architecture; Flowering and development,22
+OsSOT1,1,unique_reference_identifier,OsSOT1|STV11,Os11g0505300,LOC_Os11g30910,resistance; rice stripe virus; RSV; SA; sulphotransferase,Disease resistance,5
+OsPHL3,1,unique_reference_identifier,OsPHL3,Os09g0299000,LOC_Os09g12750,flowering time; nucleus,Flowering and development,4
+OsUbi7,1,no_exact_reference_alias_match,,,,,,0
+Hd9802S,1,no_exact_reference_alias_match,,,,,,0
+OsHXK1,1,unique_reference_identifier,OsHXK1,Os07g0446800,LOC_Os07g26540,cell death; chloroplast; fertility; leaf; leaf senescence; PCD; photosynthesis; pollen; programmed cell death; senescence; tapetal; yield,Yield and plant architecture; Fertility and hybrid performance; Physiology and signalling,20
+OsAAP11,1,no_exact_reference_alias_match,,,,,,0
+Pi21,1,unique_reference_identifier,Pi21,Os04g0401000,LOC_Os04g32850,blast; blast resistance; defense; defense response; magnaporthe oryzae; resistance; resistant,Disease resistance,15
+Pi45,1,no_exact_reference_alias_match,,,,,,0
+Xa20,1,no_exact_reference_alias_match,,,,,,0
+OsPQT3,1,unique_reference_identifier,OsPQT3,Os10g0431000,LOC_Os10g29560,abiotic stress; biotic stress; oxidative; resistance; salt; salt stress; stress; stress response; yield,Disease resistance; Abiotic stress response; Yield and plant architecture,14
+OsLCT1,1,unique_reference_identifier,OsLCT1,,LOC_Os06g38120,cadmium; drought; drought stress; grain; growth; leaf; reproductive; stress; transporter; vascular bundle; xylem; zinc,Abiotic stress response; Grain and nutritional traits; Flowering and development,20
+OsGA3ox2,1,unique_reference_identifier,d18|OsGA3ox2,Os01g0177400,LOC_Os01g08220,dwarf; GA; ga; GA biosynthetic; gibberellin; leaf; meristem; shoot; shoot apical meristem; stem,,14
+OsChlD,1,unique_reference_identifier,Chl1|OsChlD,Os03g0811100,LOC_Os03g59640,seedling,Flowering and development,1
+qGL3-1,1,unique_reference_identifier,GL3.1|qGL3-1|qGL3|OsPPKL1,Os03g0646900,LOC_Os03g44500,brassinosteroid; grain; grain length; grain size; grain yield; panicle; yield,Grain and nutritional traits; Yield and plant architecture,28
+qTGW8.1,1,no_exact_reference_alias_match,,,,,,0
+OsIRT1,1,unique_reference_identifier,OsIRT1,Os03g0667500,LOC_Os03g46470,cadmium; ethylene; grain; growth; homeostasis; iron; mitochondria; root; transcription factor; transporter; zinc,Abiotic stress response; Grain and nutritional traits; Flowering and development; Physiology and signalling,25
+OsIRT2,1,unique_reference_identifier,OsIRT2,Os03g0667300,LOC_Os03g46454,cadmium; growth; iron; root; transporter,Abiotic stress response; Grain and nutritional traits; Flowering and development,7
+OsFRO2,1,no_exact_reference_alias_match,,,,,,0
+OsAPX1,1,unique_reference_identifier,OsAPX1|APXa,Os03g0285700,LOC_Os03g17690,blast; blast resistance; chilling; cold stress; growth; homeostasis; immunity; innate immunity; magnaporthe oryzae; phytohormone; resistance; salicylic acid; seed; seed germination; seedling; temperature; transcription factor; transcription regulator; transcriptional activator; zinc,Disease resistance; Abiotic stress response; Grain and nutritional traits; Flowering and development; Physiology and signalling,30
+OsNRT2,1,no_exact_reference_alias_match,,,,,,0
+OsSAPK3,1,unique_reference_identifier,SAPK3|REK|OsSAPK3,Os10g0564500,LOC_Os10g41490,ABA; detoxification; drought; drought stress; drought stress response; drought tolerance; grain; grain size; grain yield; stress; stress response; tiller; tiller number; tolerance; yield,Abiotic stress response; Grain and nutritional traits; Yield and plant architecture,31
+OsATG8,1,unique_reference_identifier,OsAtg8,Os07g0512200,LOC_Os07g32800,autophagy,,1
+OsONAC096,1,no_exact_reference_alias_match,,,,,,0
+Bph1,1,no_exact_reference_alias_match,,,,,,0
+Bph37,1,no_exact_reference_alias_match,,,,,,0
+OsAA1,1,no_exact_reference_alias_match,,,,,,0
+OsCIPK2,1,unique_reference_identifier,OsCIPK2,Os07g0678600,LOC_Os07g48100,nitrogen,Nutrient use,1
+OsHSP,1,no_exact_reference_alias_match,,,,,,0
+OsJAZ4-mediated,1,no_exact_reference_alias_match,,,,,,0
+OsMGD1-mediated,1,no_exact_reference_alias_match,,,,,,0
+OsMND1,1,no_exact_reference_alias_match,,,,,,0
+OsQHB,1,unique_reference_identifier,QHB|OsQHB|OsWOX5,Os01g0854500,LOC_Os01g63510,callus; crown; crown root; development; grain; grain length; grain width; panicle; panicle length; plant height; reactive oxygen species; root; salt; salt stress; salt tolerance; shoot; stress; tiller; tiller number; tolerance,Abiotic stress response; Grain and nutritional traits; Yield and plant architecture; Flowering and development,33
+OsPK5,1,unique_reference_identifier,OsPK5,Os11g0216000,LOC_Os11g10980,breeding; growth; Kinase; kinase; seed; seed germination; seedling; seedling growth,Flowering and development,12
+OsSAP6,1,unique_reference_identifier,OsSAP6,Os03g0792900,LOC_Os03g57890,alkaline stress; alkaline tolerance; breeding; cytoplasm; growth; height; homeostasis; nucleus; plant height; root; root length; salinity; salinity stress; seedling; stress; stress tolerance; tolerance,Abiotic stress response; Yield and plant architecture; Flowering and development,29
+OsSPL9,1,unique_reference_identifier,OsSPL9,Os05g0408200,LOC_Os05g33810,development; flower; grain; grain number; grain yield; panicle; transcription factor; yield,Grain and nutritional traits; Yield and plant architecture; Flowering and development; Physiology and signalling,10
+OsFWL5,1,unique_reference_identifier,OsPCR1|OsFWL5,Os10g0112100,LOC_Os10g02300,cadmium; cell death; defense; defense response; grain; grain quality; immunity; quality; reactive oxygen species; resistance,Disease resistance; Abiotic stress response; Grain and nutritional traits,13
+OsNCED3,1,unique_reference_identifier,OsNCED3,Os03g0645900,LOC_Os03g44380,ABA; ABA biosynthesis; abiotic stress; abscisic acid; anther; biotic stress; breeding; brown planthopper; chilling; chilling stress; defense; development; dormancy; drought; drought tolerance; embryo; grain; grain size; growth; leaf; leaf senescence; leaf shape; plant growth; quality; resistance; resistant; seed; seed dormancy; seed germination; senescence; signal transduction; stress; stress response; stress tolerance; tolerance; vascular bundle,Disease resistance; Abiotic stress response; Grain and nutritional traits; Flowering and development; Fertility and hybrid performance; Physiology and signalling,91
+OsNPF7,1,no_exact_reference_alias_match,,,,,,0
+OsNAC14,1,unique_reference_identifier,OsNAC14,Os01g0675800,LOC_Os01g48446,defense; defense response; drought; drought tolerance; tolerance,Disease resistance; Abiotic stress response,5
+OsPHT1,1,unique_reference_identifier,OsPHT1,Os06g0184900,LOC_Os06g08580,phosphate; phosphate transport; tolerance; transporter,Nutrient use,4
+OsRab7,1,unique_reference_identifier,OsRab7|OsRab7B3,Os05g0516600,LOC_Os05g44050,ABA; abiotic stress; biotic stress; drought; grain; grain yield; heat tolerance; leaf; senescence; stress; stress tolerance; tolerance; yield,Abiotic stress response; Grain and nutritional traits; Yield and plant architecture; Physiology and signalling,25
+OsGSTL2,1,unique_reference_identifier,OsGSTL2,Os03g0283100,LOC_Os03g17470,panicle; root; seedling; tiller; tillering,Yield and plant architecture; Flowering and development,5
+OsNAC016,1,unique_reference_identifier,OsNAC016,Os01g0104200,LOC_Os01g01430,ABA; architecture; BR; brassinosteroid; Brassinosteroid; drought; drought stress; drought tolerance; erect; osmotic stress; plant architecture; protein kinase; stomatal; stress; stress tolerance; tolerance; water loss,Abiotic stress response; Grain and nutritional traits; Yield and plant architecture,25
+OsMIOX,1,unique_reference_identifier,OsMIOX,Os06g0561000,LOC_Os06g36560,drought; drought tolerance; growth; oxidative; root; salt,Abiotic stress response; Flowering and development,8
+OsFTL10,1,unique_reference_identifier,OsFTL10,Os05g0518000,LOC_Os05g44180,cytoplasm; drought; drought stress; drought tolerance; nucleus; seedlings; stress; tolerance,Abiotic stress response; Flowering and development,12
+OsLEA3,1,unique_reference_identifier,OsLEA3|OsLEA3-1,Os05g0542500,LOC_Os05g46480,ABA; abiotic stress; cold stress; drought; drought resistance; ethylene; grain; grain yield; growth; jasmonic; jasmonic acid; oxidative; root; salt; salt stress; seedling; yield,Disease resistance; Abiotic stress response; Grain and nutritional traits; Yield and plant architecture; Flowering and development,51
+qDRDW4,1,no_exact_reference_alias_match,,,,,,0
+qRL9,1,no_exact_reference_alias_match,,,,,,0
+qOA1,1,no_exact_reference_alias_match,,,,,,0
+OsNCED2,1,unique_reference_identifier,OsNCED2,Os12g0435200,LOC_Os12g24800,ABA; anther,Fertility and hybrid performance,3
+OsP5CS,1,unique_reference_identifier,OsP5CS|OsP5CS1,Os05g0455500,LOC_Os05g38150,ABA; breeding; drought; oxidative; resistant; salt; salt stress; salt tolerance; seedling,Abiotic stress response; Flowering and development,24
+OsP5CR,1,unique_reference_identifier,OsP5CR,Os01g0948400,LOC_Os01g71990,ABA; resistant; salt; salt stress; salt tolerance,Abiotic stress response,9
+OsPRODH,1,unique_reference_identifier,OsProDH,Os10g0550900,LOC_Os10g40360,abiotic stress; biotic stress; dehydrogenase; heat stress; Heat Stress; leaf; mitochondria; reactive oxygen species; root; seedlings; stress; temperature,Abiotic stress response; Flowering and development,13
+qXAR5,1,no_exact_reference_alias_match,,,,,,0
+qGL11,1,no_exact_reference_alias_match,,,,,,0
+Pi63,1,no_exact_reference_alias_match,,,,,,0
+OsEPFL1,1,no_exact_reference_alias_match,,,,,,0
+OsMADS34,1,unique_reference_identifier,OsMADS34|PAP2,Os03g0753100,LOC_Os03g54170,branching; development; floral; floral organ; floral organ number; flower; grain; grain size; grain yield; inflorescence; leaf; lemma; meristem; palea; panicle; quality; root; seed; spikelet; spikelet development; spikelet meristem; spikelet number; stamen; sterile; yield,Grain and nutritional traits; Yield and plant architecture; Flowering and development; Fertility and hybrid performance,91
+OsRDR6,1,unique_reference_identifier,OsRDR6|shl-2,Os01g0527600,LOC_Os01g34350,ABA; defense; disease; dwarf; insect; spikelet; temperature,Disease resistance; Yield and plant architecture,7
+OsBadh2,1,unique_reference_identifier,OsBADH2|fgr,Os08g0424500,LOC_Os08g32870,root; sterile,Flowering and development; Fertility and hybrid performance,2
+OsCESA4,1,unique_reference_identifier,OsCesA4|Bc7|bc11,Os01g0750300,LOC_Os01g54620,cellulose,,2
+OsNUC1-S,1,no_exact_reference_alias_match,,,,,,0
+qTSN4,1,no_exact_reference_alias_match,,,,,,0
+Pi3,1,no_exact_reference_alias_match,,,,,,0
+Pii,1,no_exact_reference_alias_match,,,,,,0
+OsSOS1,1,unique_reference_identifier,OsNHA1|OsSOS1,Os12g0641100,LOC_Os12g44360,alkaline stress; drought; leaf; root; salt; salt stress; seedling; shoot; transporter,Abiotic stress response; Flowering and development,11
+Bph2,1,no_exact_reference_alias_match,,,,,,0
+Bph32,1,unique_reference_identifier,Bph32,Os06g0123200,LOC_Os06g03240,leaf; resistance,Disease resistance,2
+Bph17,1,no_exact_reference_alias_match,,,,,,0
+OsAAP4,1,unique_reference_identifier,OsAAP4|OsAAP4a,Os12g0194900,LOC_Os12g09300,amino acid transporter; breeding; cytokinin; grain; grain yield; nitrogen; tiller; tillering; transporter; yield,Grain and nutritional traits; Yield and plant architecture; Nutrient use,21
+OsALDH7,1,unique_reference_identifier,OsALDH7|OsALDH7B6|ALDH7B7,Os09g0440300,LOC_Os09g26880,abiotic stress; blast; endosperm; oxidative; seed; seed development,Disease resistance; Abiotic stress response; Flowering and development,14
+OsSPL4,1,unique_reference_identifier,OsSPL4,Os02g0174100,LOC_Os02g07780,blast; blast disease; branching; cell division; development; disease; disease resistance; grain; grain size; grain yield; grains per panicle; immune response; panicle; resistance; spikelet; spikelet development; yield,Disease resistance; Grain and nutritional traits; Yield and plant architecture; Flowering and development,27
+qGL3,1,unique_reference_identifier,GL3.1|qGL3-1|qGL3|OsPPKL1,Os03g0646900,LOC_Os03g44500,brassinosteroid; grain; grain length; grain size; grain yield; panicle; yield,Grain and nutritional traits; Yield and plant architecture,28
+OsLOX10,1,unique_reference_identifier,OsLOX10,Os11g0575600,LOC_Os11g36719,alkaline stress; resistance; saline stress; seed; seed longevity; seedlings; stress; tolerance,Disease resistance; Abiotic stress response; Flowering and development,12
+qSAC3,1,no_exact_reference_alias_match,,,,,,0
+OsDREB2A,1,unique_reference_identifier,OsDREB2A,Os01g0165000,LOC_Os01g07120,ABA; abiotic stress; drought; drought tolerance; growth; oxidative; salt; salt stress; salt tolerance; temperature; transcription factor,Abiotic stress response; Flowering and development; Physiology and signalling,34
+OsDREB1A,1,unique_reference_identifier,OsDREB1A|OsDREBL|OsCBF3,Os09g0522200,LOC_Os09g35030,abiotic stress; cold stress; cold tolerance; drought; salt; salt stress; temperature; tolerance; transcription factor,Abiotic stress response; Physiology and signalling,18
+OsNAC6,1,unique_reference_identifier,OsNAC6|SNAC2,Os01g0884300,LOC_Os01g66120,abiotic stress; biotic stress; blast; blast disease; defense; defense response; development; disease; drought; drought stress; drought tolerance; grain; grain yield; growth; jasmonic; jasmonic acid; reproductive; root; salinity; salt; salt tolerance; seedling; stress; tolerance; transcription factor; yield,Disease resistance; Abiotic stress response; Grain and nutritional traits; Yield and plant architecture; Flowering and development; Physiology and signalling,60
+OsLEA27,1,no_exact_reference_alias_match,,,,,,0
+OsRUS1,1,no_exact_reference_alias_match,,,,,,0
+OsPT8,1,unique_reference_identifier,OsPht1;8|OsPT8,Os10g0444700,LOC_Os10g30790,auxin; biomass; development; disease; disease resistance; endosperm; grain; growth; homeostasis; immunity; Kinase; magnaporthe oryzae; panicle; phosphatase; phosphate; phosphate transport; phosphorus; Pi; pi; Pi signaling; plant growth; protein kinase; protein phosphatase; R protein; resistance; root; root elongation; seed; shoot; tolerance; transcription factor; transporter; yield,Disease resistance; Grain and nutritional traits; Yield and plant architecture; Flowering and development; Nutrient use; Physiology and signalling,92
+OsCERK1,1,unique_reference_identifier,OsCERK1,Os08g0538300,LOC_Os08g42580,blast; blast resistance; calcium; cell wall; chitin elicitor signaling pathway; chitin signaling; defense; defense response; epidermis; immune response; immunity; immunity signalling; innate immunity; Kinase; magnaporthe oryzae; peptidoglycan and chitin signaling; peptidoglycan signaling; phosphorus; plasma membrane; reactive oxygen species; receptor kinase; resistance; root; stress; symbiosis; tolerance,Disease resistance; Abiotic stress response; Flowering and development; Nutrient use; Physiology and signalling,58
+OsDEC,1,no_exact_reference_alias_match,,,,,,0
+OsJAZ9,1,unique_reference_identifier,OsJAZ9|OsTIFY11a,Os03g0180800,LOC_Os03g08310,ABA; architecture; ga; GA; homeostasis; JA; ja; JA signaling; jasmonate; jasmonic; jasmonic acid; leaf; nitrogen; phytohormone; potassium; root; root growth; root system architecture; salt; salt stress; salt tolerance; stomata; stomatal; stress; stress tolerance; sugar; tolerance; transcription factor; Ubiquitin,Abiotic stress response; Yield and plant architecture; Flowering and development; Nutrient use; Physiology and signalling,89
+OsBZR5,1,no_exact_reference_alias_match,,,,,,0
+qRBG1,1,no_exact_reference_alias_match,,,,,,0
+qPL6.2,1,no_exact_reference_alias_match,,,,,,0
+OsFBX148,1,no_exact_reference_alias_match,,,,,,0
+qCTS11,1,no_exact_reference_alias_match,,,,,,0
+OsNLP,1,no_exact_reference_alias_match,,,,,,0
+OsC1,1,unique_reference_identifier,OsC1,Os06g0205100,LOC_Os06g10350,ABA; oxidative; oxidative stress; resistance; transcriptional regulator,Disease resistance; Abiotic stress response; Physiology and signalling,7
+OsTGW6,1,unique_reference_identifier,TGW6|OsTGW6,Os06g0623700,LOC_Os06g41850,auxin; breeding; development; grain; grain length; grain size; grain weight; IAA; iaa; pollen; pollen development; yield,Grain and nutritional traits; Yield and plant architecture; Flowering and development; Fertility and hybrid performance,28
+OsMPG,1,no_exact_reference_alias_match,,,,,,0
+OsRibA,1,no_exact_reference_alias_match,,,,,,0
+OsCRLK2,1,no_exact_reference_alias_match,,,,,,0
+qSBN7,1,no_exact_reference_alias_match,,,,,,0
+OsRING315,1,no_exact_reference_alias_match,,,,,,0
+qWS5,1,no_exact_reference_alias_match,,,,,,0
+OsSNDP4,1,no_exact_reference_alias_match,,,,,,0
+OsGRF2,1,no_exact_reference_alias_match,,,,,,0
+OsWRKY70,1,unique_reference_identifier,WRKY70|OsWRKY70,Os05g0474800,LOC_Os05g39720,BR; brown planthopper; defence; defense; gibberellin; grain; grain size; growth; jasmonate; jasmonic; jasmonic acid; Kinase; leaf; leaf angle; plant height; protein kinase; resistance; seed; seed length; transcription factor,Disease resistance; Grain and nutritional traits; Yield and plant architecture; Flowering and development; Physiology and signalling,32
+OsOZ1,1,no_exact_reference_alias_match,,,,,,0
+qLGY3,1,no_exact_reference_alias_match,,,,,,0
+OsALS,1,symbol_alias_matched_no_keyword_annotation,OsALS,Os02g0510200,LOC_Os02g30630,,,0
+OsNAC74,1,no_exact_reference_alias_match,,,,,,0
+OsPIL11,1,unique_reference_identifier,OsPIL11,Os12g0610200,LOC_Os12g41650,jasmonic; jasmonic acid; leaf; leaf development; salicylic acid; seedling; tiller; tiller number,Yield and plant architecture; Flowering and development,8
+OsMIR530,1,symbol_alias_match_without_reference_identifier,OsmiR530,,,breeding; grain; grain size; grain yield; panicle; yield,Grain and nutritional traits; Yield and plant architecture,12
+OsHSP70,1,no_exact_reference_alias_match,,,,,,0
+OsSSID6,1,no_exact_reference_alias_match,,,,,,0
+qSD12,1,no_exact_reference_alias_match,,,,,,0
+OsNTL2,1,symbol_alias_matched_no_keyword_annotation,OsNTL2,Os08g0157900,LOC_Os08g06140,,,0
+OsMYB,1,symbol_alias_matched_no_keyword_annotation,OsMyb,Os01g0298400,LOC_Os01g19330,,,0
+Pi65,1,no_exact_reference_alias_match,,,,,,0
+OsEAF6,1,symbol_alias_matched_no_keyword_annotation,OsEAF6,Os12g0298600,LOC_Os12g20310,,,0
+GS2,1,unique_reference_identifier,GS2|OsGRF4|GL2|GLW2|LGS1,Os02g0701300,LOC_Os02g47280,brassinosteroid; Brassinosteroid; breeding; cold stress; cold tolerance; cytokinin; development; grain; grain size; grain weight; grain yield; heat tolerance; nitrogen; panicle; seed; seed shattering; seedling; seedlings; shattering; stress; stress response; tolerance; transcription activator; transcription factor; transcriptional regulator; yield,Abiotic stress response; Grain and nutritional traits; Yield and plant architecture; Flowering and development; Nutrient use; Physiology and signalling,60
+OsTGS1,1,no_exact_reference_alias_match,,,,,,0
+OsCDPK28,1,no_exact_reference_alias_match,,,,,,0
+OsHSFA4d,1,no_exact_reference_alias_match,,,,,,0
+OsCAD1,1,no_exact_reference_alias_match,,,,,,0
+qCTS11-TK9,1,no_exact_reference_alias_match,,,,,,0
+OsWNK9,1,unique_reference_identifier,OsWNK9,Os12g0162100,LOC_Os12g06490,ABA; arsenite; drought; drought stress; Kinase; kinase; nucleus; oxidative; oxidative stress; phosphate; protein kinase; salt; stress; stress tolerance; tolerance; transcription factor; transporter,Abiotic stress response; Grain and nutritional traits; Nutrient use; Physiology and signalling,35
+OsGELP,1,no_exact_reference_alias_match,,,,,,0
+OsOFP19,1,unique_reference_identifier,OsOFP19,Os05g0324600,LOC_Os05g25910,architecture; BR; brassinosteroid; Brassinosteroid; Brassinosteroid Signaling; cell division; grain; plant architecture,Grain and nutritional traits; Yield and plant architecture,15
+Gn1,1,no_exact_reference_alias_match,,,,,,0
+Gn2,1,symbol_alias_match_without_reference_identifier,GN2,,,grain; grain number; heading date; plant height,Grain and nutritional traits; Yield and plant architecture; Flowering and development,4
+OsRPS5,1,no_exact_reference_alias_match,,,,,,0
+OsLIC,1,unique_reference_identifier,LIC|OsLIC1|OsLIC|OsFLA6,Os06g0704300,LOC_Os06g49080,architecture; bacterial blight; blight; BR; BR signaling; brassinosteroid; erect; grain; height; immunity; leaf; R protein; resistance; resistant; shoot; tiller; tiller angle; transcription factor; transcriptional regulator; xoo; Xoo; zinc,Disease resistance; Grain and nutritional traits; Yield and plant architecture; Physiology and signalling,53
+OsPht1,1,unique_reference_identifier,OsPHT1,Os06g0184900,LOC_Os06g08580,phosphate; phosphate transport; tolerance; transporter,Nutrient use,4
+OsHsfA4d,1,no_exact_reference_alias_match,,,,,,0
+OsDHSRP1,1,unique_reference_identifier,OsDHSRP1,Os02g0150700,LOC_Os02g05692,abiotic stress; abscisic acid; biotic stress; phytohormone; root; root length; stress; stress response,Abiotic stress response; Flowering and development; Physiology and signalling,11
+OsDHSRP,1,no_exact_reference_alias_match,,,,,,0
+Hd6,1,unique_reference_identifier,Hd6|CK2,Os03g0762000,LOC_Os03g55389,flower; flowering time; heading date,Flowering and development,10
+qBFR4-1,1,no_exact_reference_alias_match,,,,,,0
+OsDR10,1,unique_reference_identifier,OsDR10,Os08g0155900,LOC_Os08g05960,bacterial blight; bacterial blight disease; defense response; disease resistance,Disease resistance,5
+qSTV11,1,no_exact_reference_alias_match,,,,,,0
+OsSpo11-4,1,unique_reference_identifier,OsSpo11-4|OsSPO11D,Os12g0622500,LOC_Os12g42760,anther; meiosis; meiotic; pollen,Fertility and hybrid performance,5
+OsTopVIB,1,no_exact_reference_alias_match,,,,,,0
+OsGSTF14,1,no_exact_reference_alias_match,,,,,,0
+OsGSTU6,1,no_exact_reference_alias_match,,,,,,0
+OsAAT,1,symbol_alias_matched_no_keyword_annotation,OsAAT,Os01g0647100,LOC_Os01g45910,,,0
+OsRH58,1,unique_reference_identifier,OsRH58,Os01g0970600,LOC_Os01g73900,ABA; abiotic stress; biotic stress; chloroplast; stress; stress tolerance; tolerance,Abiotic stress response,10
+LOC_Os04g42095,1,no_exact_reference_alias_match,,,,,,0
+OsIAA23,1,unique_reference_identifier,OsIAA23,Os06g0597000,LOC_Os06g39590,auxin; crown; crown root; development; iaa; root; sterile,Flowering and development; Fertility and hybrid performance,14
+OsCK1,1,unique_reference_identifier,OsCK1|OsCIPK31|CIPK03,Os03g0319400,LOC_Os03g20380,ABA; abiotic stress; cell death; cytokinin; development; drought; growth; panicle; salt; salt stress; seed; seed germination; seedling; shoot,Abiotic stress response; Yield and plant architecture; Flowering and development,30
+OsCAF2,1,unique_reference_identifier,OsCAF2,Os01g0323300,LOC_Os01g21990,chloroplast; chloroplast development; development,Flowering and development,8
+OsGR1,1,unique_reference_identifier,OsGR1,Os03g0163300,LOC_Os03g06740,chloroplast; root,Flowering and development,4
+OsGR2,1,unique_reference_identifier,OsGR2|RGRC2,Os02g0813500,LOC_Os02g56850,ABA; chilling; chloroplast; drought; leaf; root; salinity; seedling,Abiotic stress response; Flowering and development,19
+OsABCC1,1,unique_reference_identifier,OsABCC1|MRP1,Os04g0620000,LOC_Os04g52900,ABC transporter; arsenic accumulation; As transport; grain; phloem,Grain and nutritional traits,6
+OsLsi6,1,no_exact_reference_alias_match,,,,,,0
+OsLsi1,1,unique_reference_identifier,Lsi1|OsNIP2;1|OsLsi1,Os02g0745100,LOC_Os02g51110,arsenite; chilling; crown; dwarf; grain; lateral root; leaf; node; phloem; R protein; resistance; root; salt; salt stress; seedlings; shoot; silicon; stress; tolerance; transcription factor; transcriptional regulator; transporter; xylem; xylem parenchyma,Disease resistance; Abiotic stress response; Grain and nutritional traits; Flowering and development; Physiology and signalling,86
+OsLsi2,1,unique_reference_identifier,Lsi2|OsLsi2,Os03g0107300,LOC_Os03g01700,arsenite; dwarf; grain; R protein; root; salt; salt stress; seedlings; shoot; silicon; stress; transporter; xylem,Abiotic stress response; Grain and nutritional traits; Flowering and development,33
+OsLsi3,1,no_exact_reference_alias_match,,,,,,0
+OsSERK2,1,unique_reference_identifier,SERK2|OsSERK2,Os04g0457800,LOC_Os04g38480,architecture; BR; BR signaling; brassinosteroid; Brassinosteroid; Brassinosteroid Signaling; grain; grain size; plant architecture; plasma membrane; resistance; salt; salt stress; stress; stress response,Disease resistance; Abiotic stress response; Grain and nutritional traits; Yield and plant architecture,55
+OsANN4,1,unique_reference_identifier,OsANN4,Os05g0382600,LOC_Os05g31750,ABA; root; root length; shoot,Flowering and development,9
+OsFtsH2,1,unique_reference_identifier,OsFtsH2,Os06g0669400,LOC_Os06g45820,ABA; chloroplast; chloroplast development; development; leaf; leaf senescence; senescence; signal transduction,Flowering and development; Physiology and signalling,11
+OsWRKY62,1,unique_reference_identifier,OsWRKY62,Os09g0417800,LOC_Os09g25070,cytosol; defense; defense response; disease; disease resistance; immunity; jasmonic; jasmonic acid; resistance; SA; sa; salicylic acid; transcription factor; transcriptional repressor,Disease resistance; Physiology and signalling,20
+OsPPR939,1,no_exact_reference_alias_match,,,,,,0
+OsMYBS2,1,unique_reference_identifier,OsMYBS2,Os10g0562100,LOC_Os10g41260,cytoplasm; seed; transcription factor; yield,Yield and plant architecture; Physiology and signalling,5
+OsCKI1,1,unique_reference_identifier,hbd2|OsCKI1,Os02g0622100,LOC_Os02g40860,ABA; adventitious root; auxin; BR; brassinosteroid; cell elongation; iaa; primary root; root; root development,Flowering and development,16
+OsCSL1,1,unique_reference_identifier,OsCSL1,Os3g0703400,NONE,chlorophyll; chloroplast; Kinase; kinase; seedlings; starch,Grain and nutritional traits; Flowering and development; Physiology and signalling,7
+OsWSS1,1,unique_reference_identifier,OsWSS1,Os11g0448000,LOC_Os11g26130,cell death; chlorophyll; chlorophyll content; chloroplast; chloroplast development; development; Kinase; kinase; map-based cloning; photosynthesis; plasma membrane; reactive oxygen species; stomata,Flowering and development; Physiology and signalling,13
+Bph30,1,no_exact_reference_alias_match,,,,,,0
+OsRKD3,1,unique_reference_identifier,OsRKD3,Os01g0551600|Os01g0551700,LOC_Os01g37100,ethylene response; signal transduction; somatic embryogenesis; stress; stress response; transcription factor,Abiotic stress response; Flowering and development; Physiology and signalling,6
+OsPSY2,1,no_exact_reference_alias_match,,,,,,0
+OsCOP1,1,unique_reference_identifier,COP1|PPS|OsCOP1,Os02g0771100,LOC_Os02g53140,development; endosperm; flavonoid; flower; flowering time; ga; growth; inflorescence; leaf; meristem; panicle; pericarp; reproductive; seed; vegetative,Yield and plant architecture; Flowering and development,33
+OsDCL1,1,no_exact_reference_alias_match,,,,,,0
+OsWRKY13,1,unique_reference_identifier,OsWRKY13|WRKY13,Os01g0750100,LOC_Os01g54600,abiotic stress; bacterial blight; blast; blast disease; blight; breeding; defense; defense response; disease; disease resistance; fertility; fungal blast; growth; homeostasis; jasmonate; jasmonic; jasmonic acid; leaf; pathogen; resistance; resistant; sa; salt; seedling; sheath; transcription factor; transcription regulator; transcriptional activator,Disease resistance; Abiotic stress response; Flowering and development; Fertility and hybrid performance; Physiology and signalling,59
+OsGAD2,1,unique_reference_identifier,OsGAD2,Os04g0447800,LOC_Os04g37500,dwarf; grain; root; seed; shoot; sterility,Grain and nutritional traits; Flowering and development; Fertility and hybrid performance,7
+OsYSL18,1,unique_reference_identifier,OsYSL18,Os01g0829900,LOC_Os01g61390,crown; crown root; flower; iron; lamina; leaf; pollen; reproductive; root; sheath; shoot; transporter; vegetative; zinc,Abiotic stress response; Grain and nutritional traits; Flowering and development; Fertility and hybrid performance,21
+OsPTR,1,no_exact_reference_alias_match,,,,,,0
+OsGLPs,1,no_exact_reference_alias_match,,,,,,0
+OsRDR1,1,unique_reference_identifier,OsRDR1,Os02g0736200,LOC_Os02g50330,resistance; rice stripe virus; RSV,Disease resistance,5
+qRL6.1,1,no_exact_reference_alias_match,,,,,,0
+OsCIN1,1,unique_reference_identifier,OsCIN1,Os02g0534400,LOC_Os02g33110,cell wall; domestication; flower; grain; grain filling; panicle; root,Grain and nutritional traits; Yield and plant architecture; Flowering and development,11
+OsPIE1,1,unique_reference_identifier,OsPIE1,Os01g0954400,LOC_Os01g72480,homeostasis; Pi; pi; Pi homeostasis; primary root; root,Flowering and development,14
+OsIRO3,1,unique_reference_identifier,OsIRO3|OsOsbHLH063,Os03g0379300,LOC_Os03g26210,development; Fe; Fe homeostasis; growth; homeostasis; iron; iron homeostasis; leaf; root; root development; shoot; transcription factor; vegetative,Grain and nutritional traits; Flowering and development; Physiology and signalling,39
+OsHXK,1,no_exact_reference_alias_match,,,,,,0
+OsPC,1,no_exact_reference_alias_match,,,,,,0
+OsAP2,1,unique_reference_identifier,OsDREB4-2|CR250|OsAP2,Os04g0549700,LOC_Os04g46400,growth; leaf; root; salt; seedling; sheath; stem,Abiotic stress response; Flowering and development,7
+OsAMT1,1,no_exact_reference_alias_match,,,,,,0
+OsCPK18,1,unique_reference_identifier,OsCPK18,Os07g0409900,LOC_Os07g22710,calcium; height; immunity; Kinase; kinase; plant height; protein kinase,Disease resistance; Grain and nutritional traits; Yield and plant architecture,14
+OsSUT2,1,unique_reference_identifier,OsSUT2|OsSUT2M,Os12g0641400,LOC_Os12g44380,flower; grain; grain number; grain size; grain weight; grain-filling; growth; height; lateral root; leaf; panicle; plasma membrane; pollen; root; seed; seed development; spikelet; sugar; sugar transport; tiller; tiller number; transporter; vegetative,Grain and nutritional traits; Yield and plant architecture; Flowering and development; Fertility and hybrid performance,35
+OsHDT1,1,unique_reference_identifier,OsHDT1|HDT701,Os05g0597100,LOC_Os05g51830,abiotic stress; biotic stress; defense; floral; flower; flowering time; ga; GA; GA biosynthetic; growth; heading date; magnaporthe oryzae; nucleus; resistance; salt; seed; seed germination; seedling; stress,Disease resistance; Abiotic stress response; Flowering and development,32
+OsERF3,1,unique_reference_identifier,AP37|OsERF3,Os01g0797600,LOC_Os01g58420,ABA; auxin; brown planthopper; crown root development; crown root elongation; crown root initiation; cytokinin; defense; defense response; drought; drought tolerance; ethylene; grain; grain yield; growth; insect; jasmonate; root; root development; root elongation; root initiation; salinity; salt; stem; temperature; transcription factor; vegetative; yield,Disease resistance; Abiotic stress response; Grain and nutritional traits; Yield and plant architecture; Flowering and development; Physiology and signalling,58
+OsDERF1,1,unique_reference_identifier,OsDERF1,Os08g0454000,LOC_Os08g35240,drought; drought tolerance; ethylene; seedling; tiller; tillering,Abiotic stress response; Yield and plant architecture; Flowering and development,11
+OsAFB2,1,unique_reference_identifier,OsAFB2,Os04g0395600,LOC_Os04g32460,auxin; drought; flower; iaa; salt; tiller; tillering; transporter,Abiotic stress response; Yield and plant architecture; Flowering and development,12
+OsTIR1,1,unique_reference_identifier,OsTIR1,Os05g0150500,LOC_Os05g05800,auxin; defense; defense response; development; drought; flower; growth; herbicide resistance; iaa; phosphate; plant growth; resistance; salt; tiller; tillering; transcription factor; transporter,Disease resistance; Abiotic stress response; Yield and plant architecture; Flowering and development; Nutrient use; Physiology and signalling,21
+OsMCA1,1,unique_reference_identifier,OsMCA1|PAD|OsDMT1,Os03g0157300,LOC_Os03g06120,architecture; dwarf; GA; GA deactivation; growth; homeostasis; node; plant architecture; plasma membrane; rachillae; root; seed; seedlings; shoot,Yield and plant architecture; Flowering and development,16
+OsWOX3B,1,unique_reference_identifier,GLR1|OsWOX3B|GL1|LSY1,Os05g0118700,LOC_Os05g02730,breeding; development; leaf; leaf development; transcription factor,Flowering and development; Physiology and signalling,11
+OsBBX,1,no_exact_reference_alias_match,,,,,,0
+OsHPL3,1,unique_reference_identifier,OsHPL3,Os02g0110200,LOC_Os02g02000,brown planthopper; defense; defense response; ethylene; leaf; sheath; stem,Disease resistance; Abiotic stress response,12
+OsARF24,1,unique_reference_identifier,OsARF24,Os12g0479400,LOC_Os12g29520,auxin; auxin response,,2
+OsRap2,1,no_exact_reference_alias_match,,,,,,0
+OsRac1,1,unique_reference_identifier,OsRac1,Os01g0229400,LOC_Os01g12900,bacterial blight; blast; blast disease; blast resistance; blight; breeding; cell cycle; cell death; cell division; defence; defence response; defense; defense response; disease; disease resistance; ethylene; grain; grain size; grain yield; immunity; leaf; magnaporthe oryzae; R protein; resistance; resistant; transcriptional activator; yield,Disease resistance; Grain and nutritional traits; Yield and plant architecture; Physiology and signalling,68
+OsMYB55,1,unique_reference_identifier,OsMYB55|OsPL,Os05g0553400,LOC_Os05g48010,grain; grain yield; growth; temperature; transcription factor; yield,Grain and nutritional traits; Yield and plant architecture; Flowering and development; Physiology and signalling,9
+OsMADS29,1,unique_reference_identifier,OsMADS29,Os02g0170300,LOC_Os02g07430,cell death; cytokinin; development; dwarf; endosperm; grain; homeostasis; nucleus; pericarp; programmed cell death; reproductive; seed; seed development; starch; starch biosynthesis; transcription factor,Grain and nutritional traits; Flowering and development; Physiology and signalling,28
+OsPFA-DSP2,1,unique_reference_identifier,OsPFA-DSP2,Os02g0771400,LOC_Os02g53160,panicle; root; seedling,Yield and plant architecture; Flowering and development,3
+OsYSL16,1,unique_reference_identifier,OsYSL16,Os04g0542800,LOC_Os04g45900,floral; floral organ; homeostasis; iron; leaf; lemma; palea; pollen; root; seed; seedling; shoot; spikelet; transporter; vascular bundle,Grain and nutritional traits; Yield and plant architecture; Flowering and development; Fertility and hybrid performance,35

@@ -1,0 +1,61 @@
+﻿objective,proposal_section,section_number,matching_records,objective_question_denominator,lexical_carrythrough_percent
+Yield and plant architecture,Primary hypothesis,1,1998,2577,77.53201396973225
+Yield and plant architecture,Experimental design,4,1746,2577,67.75320139697322
+Yield and plant architecture,Measurements and endpoints,6,2489,2577,96.58517656189368
+Yield and plant architecture,Quantitative analysis,7,1848,2577,71.71129220023283
+Yield and plant architecture,Breeding/scientific decision,10,2186,2577,84.82731858750485
+Yield and plant architecture,All five selected sections,1;4;6;7;10,948,2577,36.78696158323632
+Grain quality and nutrition,Primary hypothesis,1,373,577,64.64471403812826
+Grain quality and nutrition,Experimental design,4,289,577,50.08665511265165
+Grain quality and nutrition,Measurements and endpoints,6,465,577,80.58925476603119
+Grain quality and nutrition,Quantitative analysis,7,164,577,28.422876949740036
+Grain quality and nutrition,Breeding/scientific decision,10,372,577,64.47140381282496
+Grain quality and nutrition,All five selected sections,1;4;6;7;10,68,577,11.785095320623917
+Abiotic stress adaptation,Primary hypothesis,1,706,852,82.86384976525821
+Abiotic stress adaptation,Experimental design,4,731,852,85.7981220657277
+Abiotic stress adaptation,Measurements and endpoints,6,427,852,50.117370892018776
+Abiotic stress adaptation,Quantitative analysis,7,324,852,38.028169014084504
+Abiotic stress adaptation,Breeding/scientific decision,10,508,852,59.624413145539904
+Abiotic stress adaptation,All five selected sections,1;4;6;7;10,141,852,16.549295774647888
+Biotic stress resistance,Primary hypothesis,1,347,558,62.18637992831541
+Biotic stress resistance,Experimental design,4,308,558,55.19713261648746
+Biotic stress resistance,Measurements and endpoints,6,332,558,59.49820788530466
+Biotic stress resistance,Quantitative analysis,7,117,558,20.967741935483872
+Biotic stress resistance,Breeding/scientific decision,10,187,558,33.51254480286738
+Biotic stress resistance,All five selected sections,1;4;6;7;10,28,558,5.017921146953405
+Flowering and development,Primary hypothesis,1,237,329,72.03647416413374
+Flowering and development,Experimental design,4,258,329,78.419452887538
+Flowering and development,Measurements and endpoints,6,248,329,75.37993920972644
+Flowering and development,Quantitative analysis,7,164,329,49.848024316109424
+Flowering and development,Breeding/scientific decision,10,170,329,51.671732522796354
+Flowering and development,All five selected sections,1;4;6;7;10,55,329,16.717325227963524
+Nutrient use and fertilizer response,Primary hypothesis,1,211,343,61.51603498542274
+Nutrient use and fertilizer response,Experimental design,4,171,343,49.85422740524781
+Nutrient use and fertilizer response,Measurements and endpoints,6,176,343,51.31195335276968
+Nutrient use and fertilizer response,Quantitative analysis,7,127,343,37.02623906705539
+Nutrient use and fertilizer response,Breeding/scientific decision,10,175,343,51.02040816326531
+Nutrient use and fertilizer response,All five selected sections,1;4;6;7;10,11,343,3.206997084548105
+Hybrid breeding and fertility,Primary hypothesis,1,233,335,69.55223880597015
+Hybrid breeding and fertility,Experimental design,4,159,335,47.46268656716418
+Hybrid breeding and fertility,Measurements and endpoints,6,71,335,21.19402985074627
+Hybrid breeding and fertility,Quantitative analysis,7,82,335,24.47761194029851
+Hybrid breeding and fertility,Breeding/scientific decision,10,154,335,45.97014925373134
+Hybrid breeding and fertility,All five selected sections,1;4;6;7;10,13,335,3.8805970149253732
+Germplasm and diversity,Primary hypothesis,1,391,583,67.06689536878216
+Germplasm and diversity,Experimental design,4,436,583,74.78559176672384
+Germplasm and diversity,Measurements and endpoints,6,240,583,41.1663807890223
+Germplasm and diversity,Quantitative analysis,7,303,583,51.97255574614065
+Germplasm and diversity,Breeding/scientific decision,10,401,583,68.78216123499142
+Germplasm and diversity,All five selected sections,1;4;6;7;10,115,583,19.725557461406517
+Physiology and plant processes,Primary hypothesis,1,212,331,64.04833836858006
+Physiology and plant processes,Experimental design,4,123,331,37.16012084592145
+Physiology and plant processes,Measurements and endpoints,6,255,331,77.0392749244713
+Physiology and plant processes,Quantitative analysis,7,96,331,29.003021148036254
+Physiology and plant processes,Breeding/scientific decision,10,153,331,46.22356495468278
+Physiology and plant processes,All five selected sections,1;4;6;7;10,35,331,10.574018126888218
+Production environment and management,Primary hypothesis,1,306,546,56.043956043956044
+Production environment and management,Experimental design,4,370,546,67.76556776556777
+Production environment and management,Measurements and endpoints,6,159,546,29.12087912087912
+Production environment and management,Quantitative analysis,7,231,546,42.30769230769231
+Production environment and management,Breeding/scientific decision,10,270,546,49.45054945054945
+Production environment and management,All five selected sections,1;4;6;7;10,36,546,6.593406593406593
